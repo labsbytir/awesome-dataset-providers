@@ -1,0 +1,30 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/LITWQ9",
+  "type": "Dataset",
+  "name": "Replication data for: How Much is Minnesota Like Wisconsin? Assumptions and Counterfactuals in Causal Inference with Observational Data",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/LITWQ9",
+  "doi": "doi:10.7910/DVN/LITWQ9",
+  "description": "Political scientists are often interested in estimating causal effects. Identification of causal estimates with observational data invariably requires strong untestable assumptions. Here, we outline a number of the assumptions used in the extant empirical literature. We argue that these assumptions require careful evaluation within the context of specific applications. To that end, we present an empirical case study on the effect of Election Day registration on turnout. We show how different identification assumptions lead to different answers, and that many of the standard assumptions used are implausible. Specifically, we show that EDR likely had negligible effects in the states of Minnesota and Wisconsin. We conclude with an argument for stronger research designs.",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Keele, Luke",
+    "Minozzi, William"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "Luke Keele",
+      "affiliation": "Penn State University"
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2012-11-09T13:43:22Z",
+  "updated_at": "2015-04-11T06:54:33Z",
+  "published_at": "2014-10-03T00:00:00Z",
+  "citation": "Keele, Luke; Minozzi, William, 2012, \"Replication data for: How Much is Minnesota Like Wisconsin? Assumptions and Counterfactuals in Causal Inference with Observational Data\", https://doi.org/10.7910/DVN/LITWQ9, Harvard Dataverse, V2",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

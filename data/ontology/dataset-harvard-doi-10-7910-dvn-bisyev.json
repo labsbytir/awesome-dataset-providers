@@ -1,0 +1,30 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/BISYEV",
+  "type": "Dataset",
+  "name": "Replication data for: The Genealogy of Law",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/BISYEV",
+  "doi": "doi:10.7910/DVN/BISYEV",
+  "description": "This file contains all of the materials for replicating all of the analyses in the paper. It includes the raw data, the code for the estimator and sampler, and the supplemental data used in the analysis with code for replicating the analyses.",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Tom S. Clark",
+    "Benjamin Lauderdale"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "Tom S. Clark",
+      "affiliation": "Emory University"
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2012-05-08T00:34:15Z",
+  "updated_at": "2015-04-11T06:54:22Z",
+  "published_at": "2014-10-03T00:00:00Z",
+  "citation": "Tom S. Clark; Benjamin Lauderdale, 2012, \"Replication data for: The Genealogy of Law\", https://doi.org/10.7910/DVN/BISYEV, Harvard Dataverse, V2",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

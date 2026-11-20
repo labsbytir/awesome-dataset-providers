@@ -1,0 +1,16 @@
+{
+  "id": "provider:datagov:energy",
+  "type": "Provider",
+  "name": "Department of Energy",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/energy",
+  "organization_type": "Federal Government",
+  "aliases": [
+    "doe",
+    "dept"
+  ],
+  "dataset_count": 4145,
+  "source_count": 3,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

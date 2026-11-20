@@ -1,0 +1,29 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/EP871L",
+  "type": "Dataset",
+  "name": "Replication data for: Causal Inference without Ignorability: Identification with Nonrandom Assignment and Missing Treatment Data",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/EP871L",
+  "doi": "doi:10.7910/DVN/EP871L",
+  "description": "computer codes (programming language R), batch run output files and data that produced information in all tables and figures in the paper and supplementary information",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Mebane, Walter"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "Walter Mebane",
+      "affiliation": "University of Michigan"
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2012-11-28T23:40:17Z",
+  "updated_at": "2015-04-11T06:54:01Z",
+  "published_at": "2014-10-03T00:00:00Z",
+  "citation": "Mebane, Walter, 2012, \"Replication data for: Causal Inference without Ignorability: Identification with Nonrandom Assignment and Missing Treatment Data\", https://doi.org/10.7910/DVN/EP871L, Harvard Dataverse, V2",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

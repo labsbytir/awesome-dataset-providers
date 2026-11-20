@@ -1,0 +1,29 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/27364",
+  "type": "Dataset",
+  "name": "Replication data for: Bricks and Mortar Clientelism: Sectarianism and the Logics of Welfare Allocation in Lebanon",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/27364",
+  "doi": "doi:10.7910/DVN/27364",
+  "description": "This dataset includes information about Lebanese welfare institutions, including public and non state-institutions, and some associated information on population endowments. The dataset includes the following: - Data on affiliations and spatial locations of hospitals, primary care centers and dispensaries, and schools run by public and non-state actors, including political parties and politicians, religious charities, and non-governmental organizations (NGOs). This includes more than 3,000 institutions, of which more than half are run by non-state organizations that are not directly administered by the public sector. All are linked to a zone (manataqa 'iqariyya), which is roughly comparable to a census tract and corresponds to a rural village or specific a neighborhood in towns and cities. - Data on the sectarian identities of registered voters at the zone-level. Information on the sectarian composition of the Lebanese population is drawn from voter registration data from the Ministry of Interior and is measured at the zone level. (Note that the district of voter registration is derived from the family's district of origins (or, for women, the father's or husband's district of origin) and does not always correspond to place of residence, particularly in the Greater Beirut area. - Data on administrative and electoral boundaries, including zones, districts (qaza) and governorates (mohafaza) as well as electoral districts (used in the 2000 and 2005 national elections). (Note that the capital city of Beirut is divided into twelve neighborhoods that encompass sixty zones and contains three electoral districts.) - Data was collected in 2006-2008.",
+  "publisher": "Melani Cammett Dataverse",
+  "authors": [
+    "Melani Cammett"
+  ],
+  "producers": [],
+  "contacts": [
+    {
+      "name": "Melani Cammett",
+      "affiliation": "Harvard University"
+    }
+  ],
+  "subjects": [
+    "Social Sciences"
+  ],
+  "file_count": 1,
+  "created_at": "2014-09-21T04:42:25Z",
+  "updated_at": "2015-05-20T16:43:50Z",
+  "published_at": "2015-05-20T16:43:50Z",
+  "citation": "Melani Cammett, 2015, \"Replication data for: Bricks and Mortar Clientelism: Sectarianism and the Logics of Welfare Allocation in Lebanon\", https://doi.org/10.7910/DVN/27364, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

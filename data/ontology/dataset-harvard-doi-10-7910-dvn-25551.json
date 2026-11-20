@@ -1,0 +1,27 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/25551",
+  "type": "Dataset",
+  "name": "Revis\u00c3\u00a3o de Literatura Est. Legislativos",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/25551",
+  "doi": "doi:10.7910/DVN/25551",
+  "description": "Banco de dados sobre revis\u00c3\u00a3o sistem\u00c3\u00a1tica de literatura em Estudos Legislativos (1994-2013)",
+  "publisher": "Ranulfo Paranhos Dataverse",
+  "authors": [
+    "Ranulfo Paranhos"
+  ],
+  "producers": [],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2014-04-22T04:47:21Z",
+  "updated_at": "2015-04-11T06:49:13Z",
+  "published_at": "2014-04-22T00:00:00Z",
+  "citation": "Ranulfo Paranhos, 2014, \"Revis\u00c3\u00a3o de Literatura Est. Legislativos\", https://doi.org/10.7910/DVN/25551, Harvard Dataverse, V1, UNF:5:zg1DoRm9RscX2GqgPCox4w== [fileUNF]",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

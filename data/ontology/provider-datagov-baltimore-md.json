@@ -1,0 +1,15 @@
+{
+  "id": "provider:datagov:baltimore-md",
+  "type": "Provider",
+  "name": "City of Baltimore",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/baltimore-md",
+  "organization_type": "City Government",
+  "aliases": [
+    "maryland"
+  ],
+  "dataset_count": 41,
+  "source_count": 1,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

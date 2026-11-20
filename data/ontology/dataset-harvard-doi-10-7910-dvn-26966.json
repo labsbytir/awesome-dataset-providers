@@ -1,0 +1,29 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/26966",
+  "type": "Dataset",
+  "name": "Replication data for: A Copula Approach to the Problem of Selection Bias in Models of Government Survival",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/26966",
+  "doi": "doi:10.7910/DVN/26966",
+  "description": "Theories of coalition politics in parliamentary democracies have suggested that government formation and survival are jointly determined outcomes. An important empirical implication of these theories is that the sample of observed governments analyzed in studies of government survival may be nonrandomly selected from the population of potential governments. This can lead to serious inferential problems. Unfortunately, current empirical models of government survival are unable to account for the possible biases arising from nonrandom selection. In this study, we use a copula-based framework to assess, and correct for, the dependence between the processes of government formation and survival. Our results suggest that existing studies of government survival, by ignoring the selection problem, overstate the substantive importance of several covariates commonly included in empirical models.",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Chiba, Daina",
+    "Martin, Lanny W.",
+    "Stevenson, Randolph T."
+  ],
+  "producers": [],
+  "contacts": [
+    {
+      "name": "Daina Chiba",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2014-08-07T16:58:25Z",
+  "updated_at": "2015-04-11T06:53:03Z",
+  "published_at": "2014-10-01T00:00:00Z",
+  "citation": "Chiba, Daina; Martin, Lanny W.; Stevenson, Randolph T., 2014, \"Replication data for: A Copula Approach to the Problem of Selection Bias in Models of Government Survival\", https://doi.org/10.7910/DVN/26966, Harvard Dataverse, V2",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

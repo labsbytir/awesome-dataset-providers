@@ -1,0 +1,31 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/24334",
+  "type": "Dataset",
+  "name": "Natal nest locations of the Asian house rat (Rattus tanezumi) in lowland rice-coconut cropping systems: a coconut penthouse or rice bunds with water frontage?",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/24334",
+  "doi": "doi:10.7910/DVN/24334",
+  "description": "Context. Rattus tanezumi is a serious crop pest within the island of Luzon, Philippines. In intensive flood-irrigated rice field ecosystems of Luzon, female R. tanezumi are known to primarily nest within the tillers of ripening rice fields and along the banks of irrigation canals. The nesting habits of R. tanezumi in complex rice-coconut cropping systems are unknown. Aims. To identify the natal nest locations of R. tanezumi females in rice-coconut systems of the Sierra Madre Biodiversity Corridor (SMBC), Luzon, during the main breeding season to develop a management strategy that specifically targets their nesting habitat. Methods. When rice was at the booting to ripening stage, cage-traps were placed in rice fields adjacent to coconut habitat. Thirty breeding adult R. tanezumi females were fitted with radio-collars and successfully tracked to their nest sites. Key results. Most R. tanezumi nests (66.7%) were located in coconut groves, five nests (16.7%) were located in rice fields and five nests (16.7%) were located on the rice field edge. All nests were located above ground level and seven nests were located in coconut tree crowns. The median distance of nest sites to the nearest rice field was 22.5 m. Most nest site locations had good cover of ground vegetation and understorey vegetation, but low canopy cover. Only one nest location had an understorey vegetation height of less than 20 cm. Conclusions. In the coastal lowland rice-coconut cropping systems of the SMBC, female R. tanezumi showed a preference for nesting in adjacent coconut groves. This is contrary to previous studies in intensive flood-irrigated rice ecosystems of Luzon, where the species nests mainly in the banks of irrigation canals. It is important to understand r odent breeding ecology in a specific ecosystem before implementing appropriate management strategies. Implications. In lowland rice-coconut cropping systems, coconut groves adjacent to rice fields should be targeted for the management of R. tanezumi nest sites during the main breeding season as part of an integrated ecologically based approach to rodent pest management.",
+  "publisher": "IRRI Dataverse",
+  "authors": [
+    "Stuart, Alexander",
+    "Prescott, Colin",
+    "Singleton, Grant"
+  ],
+  "producers": [],
+  "contacts": [
+    {
+      "name": "Alexander M. Stuart",
+      "affiliation": "IRRI-CESD"
+    }
+  ],
+  "subjects": [
+    "Earth and Environmental Sciences"
+  ],
+  "file_count": 0,
+  "created_at": "2014-01-21T06:11:15Z",
+  "updated_at": "2015-08-20T05:04:06Z",
+  "published_at": "2015-08-20T05:04:06Z",
+  "citation": "Stuart, Alexander; Prescott, Colin; Singleton, Grant, 2015, \"Natal nest locations of the Asian house rat (Rattus tanezumi) in lowland rice-coconut cropping systems: a coconut penthouse or rice bunds with water frontage?\", https://doi.org/10.7910/DVN/24334, Harvard Dataverse, V2",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/U1UBII",
+  "type": "Dataset",
+  "name": "Introduction to the Special Issue",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/U1UBII",
+  "doi": "doi:10.7910/DVN/U1UBII",
+  "description": "THE SPATIAL MODEL is the workhorse theory of modern legislative studies. Starting as a metaphor common in discussions of mass elections, the model\u2019s basics were developed by Hotelling (1929) and Downs (1957) for use in the electoral arena and by Black (1948a,b) for use in legislative studies.> In both its electoral and its legislative versions, the spatial model was originally purely deterministic. Voters were presumed to be faced by w issues, each issue represented by a dimension in a policy space, W (a subset of Euclidian w-space). Voters\u2019 preferences were represented by utility functions defined overW, with each voter possessing a unique ideal or most-preferred point. When presented with a choice between rejecting a bill, and thereby retaining the status quo s \u2208 W, or passing that bill, and thereby instating a new policy b \u2208 W, a voter voted \u201caye\u201d (for passage) if she preferred b to s, voting \u201cnay\u201d (against passage) if she preferred s to b. It took some time before the somewhat parallel literature on scaling legislators\u2019 roll call votes\u2014which assumed probabilistic voting and focused on the empirical task of recovering legislators\u2019 scale positions\u2014merged with the spatial model. It did so most clearly in thework of Poole and Rosenthal (1985, 1997), whose NOMINATE algorithm was based explicitly on a spatial justification. Taking Poole and Rosenthal, and Heckman and Snyder (1997), as the first generation of suc h efforts, this special issue presents five papers from what might be called the \u201csecond generation\u201d of stochastic spatial modeling. The papers in this burgeoning literature can be viewed as chasing two related goals: a closer integration of the theoretical models with their estimation partners, yielding better estimators of key theoretical parameters.",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Gary Cox"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2010-02-16T20:07:11Z",
+  "updated_at": "2015-04-11T06:53:38Z",
+  "published_at": "2010-02-16T00:00:00Z",
+  "citation": "Gary Cox, 2010, \"Introduction to the Special Issue\", https://doi.org/10.7910/DVN/U1UBII, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

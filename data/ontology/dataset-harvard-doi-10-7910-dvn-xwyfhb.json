@@ -1,0 +1,25 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/XWYFHB",
+  "type": "Dataset",
+  "name": "Replication data for: High-Resolution Spitzer Image of Nessie IRDC",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/XWYFHB",
+  "doi": "doi:10.7910/DVN/XWYFHB",
+  "description": null,
+  "publisher": "Bones of the Milky Way Dataverse",
+  "authors": [],
+  "producers": [],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2013-08-06T20:09:07Z",
+  "updated_at": "2015-04-11T06:49:27Z",
+  "published_at": "2014-08-04T00:00:00Z",
+  "citation": "2013, \"Replication data for: High-Resolution Spitzer Image of Nessie IRDC\", https://doi.org/10.7910/DVN/XWYFHB, Harvard Dataverse, V2",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

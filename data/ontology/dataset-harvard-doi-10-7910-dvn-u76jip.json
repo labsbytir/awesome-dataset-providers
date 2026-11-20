@@ -1,0 +1,32 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/U76JIP",
+  "type": "Dataset",
+  "name": "Replication data for: Response Latency Methodology for Survey Research: Measurement & Modeling Strategies",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/U76JIP",
+  "doi": "doi:10.7910/DVN/U76JIP",
+  "description": "In public opinion research, response latency is a measure of attitude accessibility, which is the ease or swiftness with which an attitude comes to mind when a respondent is presented with a survey question. Attitude accessibility represents the strength of the association in memory between an attitude object and an evaluation of the object. Recent research shows that attitude accessibility, as measured by response latency, casts light on a wide range of phenomena of public opinion and political behavior. We discuss response latency methodology for survey research and advocate the use of latent response latency timers (which are invisible both to respondents and interviewers) as a low cost, low-maintenance alternative to traditional methods of measuring response latency in public opinion surveys. We show that with appropriate model specification latent response latency timers may provide a suitable alternative to the more complicated and expensive interviewer-activated timers.",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Kenneth Mulligan",
+    "J. Tobin Grant",
+    "Stephen T. Mockabee",
+    "Joseph Quin Monson"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2010-03-08T18:51:04Z",
+  "updated_at": "2015-04-11T06:54:19Z",
+  "published_at": "2010-03-08T00:00:00Z",
+  "citation": "Kenneth Mulligan; J. Tobin Grant; Stephen T. Mockabee; Joseph Quin Monson, 2010, \"Replication data for: Response Latency Methodology for Survey Research: Measurement & Modeling Strategies\", https://doi.org/10.7910/DVN/U76JIP, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

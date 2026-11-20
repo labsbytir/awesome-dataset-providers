@@ -1,0 +1,15 @@
+{
+  "id": "provider:datagov:gpo",
+  "type": "Provider",
+  "name": "Government Publishing Office (GPO)",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/gpo",
+  "organization_type": null,
+  "aliases": [
+    ""
+  ],
+  "dataset_count": 11,
+  "source_count": 1,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

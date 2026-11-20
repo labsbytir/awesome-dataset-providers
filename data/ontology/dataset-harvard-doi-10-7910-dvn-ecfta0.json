@@ -1,0 +1,32 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/ECFTA0",
+  "type": "Dataset",
+  "name": "Replication data for: Comparing Discrete Distributions: Survey Validation and Experiments",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/ECFTA0",
+  "doi": "doi:10.7910/DVN/ECFTA0",
+  "description": "The zipped data and codes needed to replicate the analysis, simulations, tables, and figures in \"Comparing Discrete Distributions: Survey Validation and Experiments,\" by Kishore Gawande, Gina Yannitell Reinhardt, Carol L. Silva, and Domonic A. Bearfield, forthcoming in Political Analysis.",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Gawande, Kishore",
+    "Reinhardt, Gina Yannitell",
+    "Carol L. Silva",
+    "Domonic A. Bearfield"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "Kishore Gawande",
+      "affiliation": "Texas A&M University"
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2012-10-02T17:01:42Z",
+  "updated_at": "2015-04-11T06:53:48Z",
+  "published_at": "2014-10-03T00:00:00Z",
+  "citation": "Gawande, Kishore; Reinhardt, Gina Yannitell; Carol L. Silva; Domonic A. Bearfield, 2012, \"Replication data for: Comparing Discrete Distributions: Survey Validation and Experiments\", https://doi.org/10.7910/DVN/ECFTA0, Harvard Dataverse, V2",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

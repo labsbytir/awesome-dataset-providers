@@ -1,0 +1,29 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/ZQBFXB",
+  "type": "Dataset",
+  "name": "Replication data for: The Sidetracked 2008 YouTube Senate Campaign",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/ZQBFXB",
+  "doi": "doi:10.7910/DVN/ZQBFXB",
+  "description": "This article provides a systematic portrait of the YouTube presence of U.S. Senate candidates during the 2008 election cycle. The evidence does not support the theory that democratized production, editing, and distribution of video content is markedly changing the formats and producers of political content. This is apparent from the predominance of 30-second ads among both the most popular videos and the broad range of campaign videos. Although other potential forms of accountability remain unrealized, YouTube is facilitating candidates being held accountable for their own advertising. The 2008 findings are compared to 2006 findings with the same methodology.",
+  "publisher": "Journal of Information Technology & Politics Dataverse",
+  "authors": [
+    "Robert Klotz"
+  ],
+  "producers": [
+    "Robert Klotz"
+  ],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2010-09-18T14:22:20Z",
+  "updated_at": "2015-04-11T07:06:34Z",
+  "published_at": "2010-09-20T00:00:00Z",
+  "citation": "Robert Klotz, 2010, \"Replication data for: The Sidetracked 2008 YouTube Senate Campaign\", https://doi.org/10.7910/DVN/ZQBFXB, Harvard Dataverse, V1, UNF:5:BwJVmbU5WUPeaKHsiRGsfw== [fileUNF]",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

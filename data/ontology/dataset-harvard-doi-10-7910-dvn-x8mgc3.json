@@ -1,0 +1,29 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/X8MGC3",
+  "type": "Dataset",
+  "name": "Replication data for: Interest Group Ratings and Regression Inconsistency",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/X8MGC3",
+  "doi": "doi:10.7910/DVN/X8MGC3",
+  "description": "This article uses spatial voting theory to analyze the properties of linear regressions that employ interest group ratings as measures of legislator policy preferences. Such regressions, in general, yield inconsistent results. In particular, least-squares estimation of a bivariate regression which contains an interest group rating as a regressor produces an inflated slope estimate. Instrumenting for the rating with a second rating, as proposed by Brunell et al. (1999), does not fix this problem, and this is because errors in both sets of ratings are correlated. Finally, estimation of a trivariate regression that contains an interest group rating and a party indicator on its right-hand side yields inconsistent slope estimates and, in particular, a party coefficient estimate of unreliable sign. Hence, regressions including both ratings and party indicators are not useful tools in the debate on whether party affiliation has an independent impact on legislator behavior.",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Michael Herron"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2010-02-16T20:28:14Z",
+  "updated_at": "2015-04-11T06:52:58Z",
+  "published_at": "2010-03-04T00:00:00Z",
+  "citation": "Michael Herron, 2010, \"Replication data for: Interest Group Ratings and Regression Inconsistency\", https://doi.org/10.7910/DVN/X8MGC3, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/NSWMR6",
+  "type": "Dataset",
+  "name": "Replication data for: Reconciling Individual & Aggregate Evidence Concerning Partisan Stability: Applying Time-Series Models to Panel Survey Data",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/NSWMR6",
+  "doi": "doi:10.7910/DVN/NSWMR6",
+  "description": "Party identification has been studied extensively using both individual- and aggregate-level data. This paper attempts to formulate a statistical model that can account for the range of empirical generalizations that have emerged from aggregate time series and panel surveys. Using Monte Carlo simulation, we show that only certain types of data generation processes can account for these empirical regularities. Deciding which of the remaining types best explains the data means investigating the ways in which individual-level partisanship behaves over time. Partisanship at the aggregate level tends to be highly autocorrelated, reequilibrating slowly in the wake of each perturbation. Working downward from the analysis of aggregate data, previous researchers argued that aggregate partisanship is fractionally integrated and contended that dynamics at the individual level are therefore heterogeneous. Using data from three panel surveys, we present the first direct assessment of individual-level dynamics. We also investigate the hypothesis that these dynamics vary among individuals, a claim that motivates much recent work on fractionally integrated time series. The model that best explains the observed characteristics of party identification is one in which individuals respond in similar ways to external shocks, reequilibrate rapidly thereafter, and seldom change their equilibrium level of partisan attachment.",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Donald P. Green",
+    "David H. Yoon"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2010-02-18T20:57:00Z",
+  "updated_at": "2015-04-11T06:53:37Z",
+  "published_at": "2010-02-18T00:00:00Z",
+  "citation": "Donald P. Green; David H. Yoon, 2010, \"Replication data for: Reconciling Individual & Aggregate Evidence Concerning Partisan Stability: Applying Time-Series Models to Panel Survey Data\", https://doi.org/10.7910/DVN/NSWMR6, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

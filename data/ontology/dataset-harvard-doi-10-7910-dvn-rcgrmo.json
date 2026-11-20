@@ -1,0 +1,25 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/RCGRMO",
+  "type": "Dataset",
+  "name": "Wright Files I-Z Edited; Docketed Case: 80-1519",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/RCGRMO",
+  "doi": "doi:10.7910/DVN/RCGRMO",
+  "description": null,
+  "publisher": "Ryan Owens Dataverse",
+  "authors": [],
+  "producers": [],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2009-05-04T21:47:59Z",
+  "updated_at": "2015-04-11T07:09:31Z",
+  "published_at": "2009-05-04T00:00:00Z",
+  "citation": "2009, \"Wright Files I-Z Edited; Docketed Case: 80-1519\", https://doi.org/10.7910/DVN/RCGRMO, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

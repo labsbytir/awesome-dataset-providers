@@ -1,0 +1,29 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/H2BRR1",
+  "type": "Dataset",
+  "name": "Replication data for: Evaluating Sensitivity of Parameters of Interest to Measurement Invariance in Latent Variable Models",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/H2BRR1",
+  "doi": "doi:10.7910/DVN/H2BRR1",
+  "description": "Data, R code, and adapted version of the SEM package lavaan for reproducing all examples in the paper \"Evaluating Sensitivity of Parameters of Interest to Measurement Invariance in Latent Variable Models\", which introduces the \"EPC-interest\" measure to assess measurement equivalence.",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Oberski, Daniel L"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "DL Oberski",
+      "affiliation": "Tilburg University"
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2013-07-13T15:57:04Z",
+  "updated_at": "2015-04-11T06:54:33Z",
+  "published_at": "2014-10-02T00:00:00Z",
+  "citation": "Oberski, Daniel L, 2013, \"Replication data for: Evaluating Sensitivity of Parameters of Interest to Measurement Invariance in Latent Variable Models\", https://doi.org/10.7910/DVN/H2BRR1, Harvard Dataverse, V2",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

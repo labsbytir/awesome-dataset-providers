@@ -1,0 +1,29 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/3EGVBB",
+  "type": "Dataset",
+  "name": "Replication data for: `Reasoning about Interference Between Units: A General Framework'",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/3EGVBB",
+  "doi": "doi:10.7910/DVN/3EGVBB",
+  "description": "If an experimental treatment is experienced by both treated and control group units, tests of hypotheses about causal effects may be difficult to conceptualize let alone execute. In this paper, we show how counterfactual causal models may be written and tested when theories suggest spillover or other network-based interference among experimental units. We show that the ``no interference'' assumption need not constrain scholars who have interesting questions about interference. We offer researchers the ability to model theories about how treatment given to some units may come to influence outcomes for other units. We further show how to test hypotheses about these causal effects, and we provide tools to enable researchers to assess the operating characteristics of their tests given their own models, designs, test statistics, and data. The conceptual and methodological framework we develop here is particularly applicable to social networks, but may be usefully deployed whenever a researcher wonders about interference between units. Interference between units need not be an untestable assumption; instead, interference is an opportunity to ask meaningful questions about theoretically interesting phenomena.",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Bowers, Jake"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "Jake Bowers",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2012-10-04T14:28:22Z",
+  "updated_at": "2015-04-11T06:54:31Z",
+  "published_at": "2014-10-03T00:00:00Z",
+  "citation": "Bowers, Jake, 2012, \"Replication data for: `Reasoning about Interference Between Units: A General Framework'\", https://doi.org/10.7910/DVN/3EGVBB, Harvard Dataverse, V2",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

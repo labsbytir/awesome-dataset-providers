@@ -1,0 +1,29 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/Z90FRS",
+  "type": "Dataset",
+  "name": "Replication data for: Influence without Bribes: A Non-Contracting Model of Campaign Giving and Policymaking",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/Z90FRS",
+  "doi": "doi:10.7910/DVN/Z90FRS",
+  "description": "File contains the Mathematica code used to construct the examples that prove Propositions 4 and 6 of \"Influence without Bribes.\" The file also contains the Mathematica code used to conduct the numerical calculations in Section C of the on-line appendix for \"Influence without Bribes.\"",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Justin Fox"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "Justin Fox",
+      "affiliation": "Yale University"
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2011-04-16T03:50:16Z",
+  "updated_at": "2015-04-11T06:53:06Z",
+  "published_at": "2011-05-02T00:00:00Z",
+  "citation": "Justin Fox, 2011, \"Replication data for: Influence without Bribes: A Non-Contracting Model of Campaign Giving and Policymaking\", https://doi.org/10.7910/DVN/Z90FRS, Harvard Dataverse, V2",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

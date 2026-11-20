@@ -1,0 +1,31 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/Q6CID7",
+  "type": "Dataset",
+  "name": "Replication data for: Attributing Effects to A Cluster Randomized Get-Out-The-Vote Campaign: The Compendium",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/Q6CID7",
+  "doi": "doi:10.7910/DVN/Q6CID7",
+  "description": "Early in the twentieth century, Fisher and Neyman demonstrated how to infer effects of agricultural interventions using only the very weakest of assumptions, by randomly varying which plots were to be manipulated. Although the methods permitted uncontrolled variation between experimental units, they required strict control over assignment of interventions; this hindered their application to field studies with human subjects, who could not ordinarily be compelled to comply with experimenters' instructions. In 1996, however, Angrist, Imbens and Rubin showed that inferences from randomized studies could accommodate non-compliance without significant strengthening of assumptions. Political scientists A. Gerber and D. Green responded quickly, fielding a randomized study of voter turnout campaigns in the November 1998 general election. Non-contacts and refusals were frequent, but Gerber and Green analyzed their data in the style of Angrist et al., avoiding having to model non-response. They did use models for other purposes: to address complexities of the randomization scheme; to permit heterogeneity among voters and campaigners; to account for deviations from experime ntal protocol; and to take advantage of highly informative covariates. Although the added assumptions seemed straightforward and unassailable, a later analysis found them to be at odds with Gerber and Green's data. Using a different model, it reaches the very opposite of Gerber and Green's central conclusion about getting out the vote. This paper shows that neither of the models are necessary, addressing all of the complications of Gerber and Green's study using methods in the tradition of Fisher and Neyman. To do this, it merges recent developments in randomization-based inference for comparative studies with somewhat older developments in design-based analysis of sample surveys. The method involves regression, but large-sample analysis and simulations demonstrate its lack of dependence on regression assumptions. Its s ubstantive results have consequences both for the design of campaigns to increase voter participation and for theories of political behavior more generally.",
+  "publisher": "Jake Bowers Dataverse",
+  "authors": [
+    "Jake Bowers",
+    "Ben B. Hansen",
+    "Mark Fredrickson"
+  ],
+  "producers": [
+    "Jake Bowers"
+  ],
+  "contacts": [
+    {
+      "name": "Jake Bowers",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2008-12-12T16:19:07Z",
+  "updated_at": "2015-04-11T06:55:26Z",
+  "published_at": "2008-12-12T00:00:00Z",
+  "citation": "Jake Bowers; Ben B. Hansen; Mark Fredrickson, 2008, \"Replication data for: Attributing Effects to A Cluster Randomized Get-Out-The-Vote Campaign: The Compendium\", https://doi.org/10.7910/DVN/Q6CID7, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

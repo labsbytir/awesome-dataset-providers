@@ -1,0 +1,29 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/KFPEIH",
+  "type": "Dataset",
+  "name": "Replication data for: How Diffusion of Power in Parliaments Affects Voter Choice",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/KFPEIH",
+  "doi": "doi:10.7910/DVN/KFPEIH",
+  "description": "I analyze how the diffusion of power in parliaments affects voter choice. Using a two-step research design, I first estimate an individual-level model of voter choice in 14 parliamentary democracies, allowing voters to hold preferences both for the party most similar to them ideologically and for the party that pulls policy in their direction. While in systems in which power is concentrated the two motivations converge, in consensual systems they diverge: since votes will likely be watered down by bargaining in the parliament, outcome-oriented choice in consensual systems often leads voters to endorse parties whose positions differ from their own views. In the second step, I utilize institutional measures of power diffusion in the parliament to account for the degree to which voters in different polities pursue one motivation versus the other. I demonstrate that the more power diffusion and compromise built into the political system via institutional mechanisms, the more voters compensate for the watering down of their vote by endorsing parties whose positions differ from their own views.",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Orit Kedar"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2010-03-11T15:48:17Z",
+  "updated_at": "2015-04-11T06:54:29Z",
+  "published_at": "2010-03-11T00:00:00Z",
+  "citation": "Orit Kedar, 2010, \"Replication data for: How Diffusion of Power in Parliaments Affects Voter Choice\", https://doi.org/10.7910/DVN/KFPEIH, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

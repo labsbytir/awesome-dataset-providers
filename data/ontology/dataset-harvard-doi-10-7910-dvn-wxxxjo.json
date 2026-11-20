@@ -1,0 +1,31 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/WXXXJO",
+  "type": "Dataset",
+  "name": "CCES 2008, Team Module of Harvard University (HUM)",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/WXXXJO",
+  "doi": "doi:10.7910/DVN/WXXXJO",
+  "description": "CCES 2008, Team Module of Harvard University (HUM)",
+  "publisher": "CCES Dataverse",
+  "authors": [
+    "Ansolabehere, Stephen"
+  ],
+  "producers": [
+    "Harvard"
+  ],
+  "contacts": [
+    {
+      "name": "Ansolabehere, Stephen",
+      "affiliation": "Harvard  University"
+    }
+  ],
+  "subjects": [
+    "Social Sciences"
+  ],
+  "file_count": 1,
+  "created_at": "2010-01-26T21:19:34Z",
+  "updated_at": "2020-10-06T01:00:56Z",
+  "published_at": "2020-10-06T01:00:56Z",
+  "citation": "Ansolabehere, Stephen, 2010, \"CCES 2008, Team Module of Harvard University (HUM)\", https://doi.org/10.7910/DVN/WXXXJO, Harvard Dataverse, V2",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/24344",
+  "type": "Dataset",
+  "name": "Water Use Efficiency and Physiological Response of Rice Cultivars under AlternateWetting and Drying Conditions",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/24344",
+  "doi": "doi:10.7910/DVN/24344",
+  "description": "One of the technology options that can help farmers cope with water scarcity at the field level is alternate wetting and drying (AWD). Limited information is available on the varietal responses to nitrogen, AWD, and their interactions. Field experiments were conducted at the International Rice Research Institute (IRRI) farm in 2009 dry season (DS), 2009 wet season (WS), and 2010 DS to determine genotypic responses and water use efficiency of rice under two N rates and two water management treatments. Grain yield was not significantly different between AWD and continuous flooding (CF) across the three seasons. Interactive effects among variety, water management, and N rate were not significant. The high yield was attributed to the significantly higher grain weight, which in turn was due to slower grain filling and high leaf N at the later stage of grain filling of CF. AWD treatments accelerated the grain filling rate, shortened grain filling period, and enhanced whole plant senescence. Under normal dry-season conditions, such as 2010 DS, AWD reduced water input by 24.5% than CF; however, it decreased grain yield by 6.9% due to accelerated leaf senescence. The study indicates that proper water management greatly contributes to grain yield in the late stage of grain filling, and it is critical for safe AWD technology.",
+  "publisher": "IRRI Dataverse",
+  "authors": [
+    "Zhang, Yunbo",
+    "Tang, Qiyuan",
+    "Peng, Shaobing",
+    "Xing, Danying",
+    "Qin, Jianquan",
+    "Laza, Rebecca",
+    "Punzalan, Bermenito"
+  ],
+  "producers": [],
+  "contacts": [
+    {
+      "name": "Rebecca C. Laza",
+      "affiliation": "IRRI-CESD"
+    }
+  ],
+  "subjects": [
+    "Earth and Environmental Sciences"
+  ],
+  "file_count": 0,
+  "created_at": "2014-01-21T08:36:07Z",
+  "updated_at": "2015-08-20T05:05:43Z",
+  "published_at": "2015-08-20T05:05:43Z",
+  "citation": "Zhang, Yunbo; Tang, Qiyuan; Peng, Shaobing; Xing, Danying; Qin, Jianquan; Laza, Rebecca; Punzalan, Bermenito, 2015, \"Water Use Efficiency and Physiological Response of Rice Cultivars under AlternateWetting and Drying Conditions\", https://doi.org/10.7910/DVN/24344, Harvard Dataverse, V2",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

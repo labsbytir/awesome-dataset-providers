@@ -1,0 +1,16 @@
+{
+  "id": "provider:datagov:hhs",
+  "type": "Provider",
+  "name": "U.S. Department of Health & Human Services",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/hhs",
+  "organization_type": "Federal Government",
+  "aliases": [
+    "US",
+    "dept"
+  ],
+  "dataset_count": 30139,
+  "source_count": 2,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

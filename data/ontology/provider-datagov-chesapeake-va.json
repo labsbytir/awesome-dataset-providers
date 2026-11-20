@@ -1,0 +1,15 @@
+{
+  "id": "provider:datagov:chesapeake-va",
+  "type": "Provider",
+  "name": "City of Chesapeake",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/chesapeake-va",
+  "organization_type": "City Government",
+  "aliases": [
+    "virginia"
+  ],
+  "dataset_count": 25,
+  "source_count": 1,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

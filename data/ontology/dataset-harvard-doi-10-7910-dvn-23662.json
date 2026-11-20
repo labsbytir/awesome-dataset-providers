@@ -1,0 +1,31 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/23662",
+  "type": "Dataset",
+  "name": "Evaluation of Biofertilizers in Irrigated Rice: Effects on Grain Yield at Different Fertilizer Rates",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/23662",
+  "doi": "doi:10.7910/DVN/23662",
+  "description": "Biofertilizers are becoming increasingly popular in many countries and for many crops, but very few studies on their effect on grain yield have been conducted in rice. Therefore, we evaluated three different biofertilizers (based on Azospirillum, Trichoderma, or unidentified rhizobacteria) in the Philippines during four cropping seasons between 2009 and 2011, using four different fertilizer rates (100% of the recommended rate [RR], 50% RR, 25% RR, and no fertilizer as Control). The experiments were conducted under fully irrigated conditions in a typical lowland rice environment. Significant yield increases due to biofertilizer use were observed in all experimental seasons with the exception of the 2008/09 DS. However, the effect on rice grain yield varied between biofertilizers, seasons, and fertilizer treatments. In relative terms, the seasonal yield increase across fertilizer treatments was between 5% and 18% for the best biofertilizer (Azospirillum-based), but went up to 24% in individual treatments. Absolute grain yield increases due to biofertilizer were usually below 0.5 t/ha, corresponding to an estimated additional N uptake of less than 7.5 kg N/ha. The biofertilizer effect on y ield did not significantly interact with the inorganic fertilizer rate used but the best effects on grain yield were achieved at low to medium fertilizer rates. Nevertheless, positive effects of the biofertilizers even occurred at grain yields up to 5 t/ha. However, the trends in our results seem to indicate that biofertilizers might be most helpful in rainfed environments with limited inorganic fertilizer input. However, for use in these target environments, biofertilizers need to be evaluated under conditions with abiotic stresses typical of such systems such as drought, soil acidity, or low soil fertility.",
+  "publisher": "IRRI Dataverse",
+  "authors": [
+    "Banayo, Nino Paul Meynard",
+    "Sta. Cruz, Pompe",
+    "Aguilar, Edna",
+    "Badayos, Rodrigo",
+    "Haefele, Stephan"
+  ],
+  "producers": [],
+  "contacts": [
+    {
+      "name": "Nino Paul Meynard Banayo",
+      "affiliation": "IRRI-CESD"
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2013-12-04T03:25:45Z",
+  "updated_at": "2016-04-06T03:30:31Z",
+  "published_at": "2014-01-19T00:00:00Z",
+  "citation": "Banayo, Nino Paul Meynard; Sta. Cruz, Pompe; Aguilar, Edna; Badayos, Rodrigo; Haefele, Stephan, 2014, \"Evaluation of Biofertilizers in Irrigated Rice: Effects on Grain Yield at Different Fertilizer Rates\", https://doi.org/10.7910/DVN/23662, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

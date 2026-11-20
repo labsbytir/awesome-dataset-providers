@@ -1,0 +1,16 @@
+{
+  "id": "provider:datagov:dol-bls",
+  "type": "Provider",
+  "name": "U.S. Department of Labor Bureau of Labor Statistics",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/dol-bls",
+  "organization_type": "Federal Government",
+  "aliases": [
+    "dept",
+    "US"
+  ],
+  "dataset_count": 31,
+  "source_count": 1,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

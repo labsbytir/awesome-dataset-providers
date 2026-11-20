@@ -1,0 +1,15 @@
+{
+  "id": "provider:datagov:va",
+  "type": "Provider",
+  "name": "Department of Veterans Affairs",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/va",
+  "organization_type": "Federal Government",
+  "aliases": [
+    "dept"
+  ],
+  "dataset_count": 4160,
+  "source_count": 2,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

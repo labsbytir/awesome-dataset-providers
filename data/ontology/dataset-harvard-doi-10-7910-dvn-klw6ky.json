@@ -1,0 +1,31 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/KLW6KY",
+  "type": "Dataset",
+  "name": "Replication data for: Improving Predictions Using Ensemble Bayesian Model Averaging",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/KLW6KY",
+  "doi": "doi:10.7910/DVN/KLW6KY",
+  "description": "We present ensemble Bayesian model averaging (EBMA) and illustrate its ability to aid scholars in the social sciences to make more accurate forecasts of future events. In essence, EBMA improves prediction by pooling information from multiple forecast models to generate ensemble predictions similar to a weighted average of component forecasts. The weight assigned to each forecast is calibrated via its performance in some validation period. The aim is not to choose some \u00e2\u0080\u009cbest\u00e2\u0080\u009d model, but rather to incorporate the insights and knowledge implicit in various forecasting efforts via statistical postprocessing. After presenting the method, we show that EBMA increases the accuracy of out-of-sample forecasts relative to component models in three applied examples: predicting the occurrence of insurgencies around the Pacific Rim, forecasting vote shares in U.S. presidential elections, and predicting the votes of U.S. Supreme Court Justices",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Jacob M. Montgomery",
+    "Florian Hollenbach",
+    "Michael D. Ward"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "Michael D. Ward",
+      "affiliation": "Duke University"
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2011-12-21T17:43:42Z",
+  "updated_at": "2015-04-11T06:54:23Z",
+  "published_at": "2014-10-03T00:00:00Z",
+  "citation": "Jacob M. Montgomery; Florian Hollenbach; Michael D. Ward, 2012, \"Replication data for: Improving Predictions Using Ensemble Bayesian Model Averaging\", https://doi.org/10.7910/DVN/KLW6KY, Harvard Dataverse, V2",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

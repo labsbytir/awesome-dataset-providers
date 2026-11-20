@@ -1,0 +1,15 @@
+{
+  "id": "provider:datagov:maryland",
+  "type": "Provider",
+  "name": "State of Maryland",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/maryland",
+  "organization_type": "State Government",
+  "aliases": [
+    "md"
+  ],
+  "dataset_count": 2238,
+  "source_count": 1,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

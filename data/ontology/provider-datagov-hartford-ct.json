@@ -1,0 +1,15 @@
+{
+  "id": "provider:datagov:hartford-ct",
+  "type": "Provider",
+  "name": "City of Hartford",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/hartford-ct",
+  "organization_type": "City Government",
+  "aliases": [
+    "connecticut"
+  ],
+  "dataset_count": 105,
+  "source_count": 1,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

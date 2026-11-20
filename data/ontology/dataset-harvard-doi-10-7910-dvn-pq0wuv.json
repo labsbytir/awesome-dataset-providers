@@ -1,0 +1,30 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/PQ0WUV",
+  "type": "Dataset",
+  "name": "Replication data for: Digital Media in the 2008 Canadian Election",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/PQ0WUV",
+  "doi": "doi:10.7910/DVN/PQ0WUV",
+  "description": "This paper examines the use and impact of digital media in the 2008 Canadian federal election. It examines the extent to which different digital media were employed by candidates and parties. The research informs a wider debate between competing schools of thought on the democratizing potential of the internet. It demonstrates a mixed role of digital media in the election. Structural, human and financial resources can be identified as advantaging established parties access to both conventional and online media. The pattern of adoption of different forms of digital media is also significantly effected by factors internal to professional politics.",
+  "publisher": "Journal of Information Technology & Politics Dataverse",
+  "authors": [
+    "Peter John Chen",
+    "Peter Jay Smith"
+  ],
+  "producers": [
+    "Peter Jay Smith"
+  ],
+  "contacts": [
+    {
+      "name": "Peter John Chen",
+      "affiliation": "University of Sydney"
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2010-12-15T01:45:07Z",
+  "updated_at": "2015-04-11T07:06:31Z",
+  "published_at": "2012-02-07T00:00:00Z",
+  "citation": "Peter John Chen; Peter Jay Smith, 2012, \"Replication data for: Digital Media in the 2008 Canadian Election\", https://doi.org/10.7910/DVN/PQ0WUV, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

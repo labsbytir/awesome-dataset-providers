@@ -1,0 +1,15 @@
+{
+  "id": "provider:datagov:ed",
+  "type": "Provider",
+  "name": "Department of Education",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/ed",
+  "organization_type": "Federal Government",
+  "aliases": [
+    "dept"
+  ],
+  "dataset_count": 2110,
+  "source_count": 1,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/XPFGAZ",
+  "type": "Dataset",
+  "name": "Replication data for: Methodological Artifacts in Measures of Political Efficacy and Trust: A Multiple Correspondence Analysis",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/XPFGAZ",
+  "doi": "doi:10.7910/DVN/XPFGAZ",
+  "description": "Many authors report a positive relationship of education and political interest with political efficacy and trust, but it is well known that both of the former are associated with response styles, such as a tendency to \u201cstrongly agree.\u201d Since they are related to both a substantive concept (political efficacy and trust), and to methodological effects (agreement bias and a tendency to give non-substantive responses) it is important to assess whether the substantive relationship is due to methodological artifacts. Applying multiple correspondence analysis to the 1984 Canadian National Election Study, we will discuss a method which allows to test a set of items for measurement effects such as ordinality and response sets. In the given example, ordinality of the political efficacy and trust items could be confirmed only for politically interested respondents. For respondents with low political interest, there is clear evidence of a response set resulting in a tendency to \u201cstrongly agree\u201d regardless of the direction of the items. Taken together, these findings call into question the substantive relationships reported in the literature.",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "J\u00f6rg Blasius",
+    "Victor Thiessen"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2010-01-05T14:27:26Z",
+  "updated_at": "2015-04-11T06:53:25Z",
+  "published_at": "2010-03-04T00:00:00Z",
+  "citation": "J\u00f6rg Blasius; Victor Thiessen, 2010, \"Replication data for: Methodological Artifacts in Measures of Political Efficacy and Trust: A Multiple Correspondence Analysis\", https://doi.org/10.7910/DVN/XPFGAZ, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "provider:datagov:dot",
+  "type": "Provider",
+  "name": "Department of Transportation",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/dot",
+  "organization_type": "Federal Government",
+  "aliases": [
+    "dept"
+  ],
+  "dataset_count": 1761,
+  "source_count": 3,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

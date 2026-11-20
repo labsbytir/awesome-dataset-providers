@@ -1,0 +1,33 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/24240",
+  "type": "Dataset",
+  "name": "Source-sink dynamics and proteomic reprogramming under elevated night temperature and their impact on rice yield and grain quality",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/24240",
+  "doi": "doi:10.7910/DVN/24240",
+  "description": "High night temperatures (HNTs) can reduce significantly the global rice (Oryza sativa) yield and quality. A systematic analysis of HNT response at the physiological and molecular levels was performed under field conditions. Contrasting rice accessions, N22 (highly tolerant) and Gharib (susceptible), were evaluated at 22 degree C (control) and 28 degree C (HNT). Nitrogen (N) and nonstructural carbohydrate (NSC) translocation from different plant tissues into grains at key developmental stages, and their contribution to yield, grain-filling dynamics and quality aspects, were evaluated. Proteomic profiling of flag leaf and spikelets at 100% flowering and 12 d after flowering was conducted, and thei r reprogramming patterns were explored. Grain yield reduction in susceptible Gharib was traced back to the significant reduction in N and NSC translocation after flowering, resulting in reduced maximum and mean grain-filling rate, grain weight and grain quality. A combined increase in heat shock proteins (HSPs), Ca signaling proteins and efficient protein modification and repair mechanisms (particularly at the early grain-filling stage) enhanced N22 tolerance for HNT. The increased rate of grain filling and efficient proteomic protection, fueled by better assimilate translocation, overcome HNT tolerance in rice. Temporal and spatial proteome programming alters dynamically between key developmental stages and guides future transgenic and molecular analysis targeted towards crop improvement.",
+  "publisher": "IRRI Dataverse",
+  "authors": [
+    "Shi, Wanju",
+    "Muthurajan, Raveendran",
+    "Rahman, Hifzur",
+    "Selvam, Jagadeesh",
+    "Peng, Shaobing",
+    "Zou, Yinbin",
+    "Jagadish, Krishna"
+  ],
+  "producers": [],
+  "contacts": [
+    {
+      "name": "Krishna S. V. Jagadish",
+      "affiliation": "IRRI-CESD"
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2014-01-14T05:44:16Z",
+  "updated_at": "2015-04-11T07:03:15Z",
+  "published_at": "2014-01-19T00:00:00Z",
+  "citation": "Shi, Wanju; Muthurajan, Raveendran; Rahman, Hifzur; Selvam, Jagadeesh; Peng, Shaobing; Zou, Yinbin; Jagadish, Krishna, 2014, \"Source-sink dynamics and proteomic reprogramming under elevated night temperature and their impact on rice yield and grain quality\", https://doi.org/10.7910/DVN/24240, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

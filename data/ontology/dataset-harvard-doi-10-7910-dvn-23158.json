@@ -1,0 +1,35 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/23158",
+  "type": "Dataset",
+  "name": "Fine mapping of QTLs for rice grain yield under drought reveals sub-QTLs conferring a response to variable drought severities",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/23158",
+  "doi": "doi:10.7910/DVN/23158",
+  "description": "Fine-mapping studies on four QTLs, qDTY 2.1 , qDTY 2.2, qDTY 9.1 and qDTY 12.1 , for grain yield (GY) under drought were conducted using four different backcross-derived populations screened in 16 experiments from 2006 to 2010. Composite and Bayesian interval mapping analyses resolved the originally identified qDTY 2.1 region of 42.3 cM into a segment of 1.6 cM, the qDTY 2.2 region of 31.0 cM into a segment of 6.7 cM, the qDTY 9.1 region of 32.1 cM into two segments of 9.4 and 2.4 cM and the qDTY 12.1 region of 10.6 cM into two segments of 3.1 and 0.4 cM. Two of the four QTLs (qDTY 9.1 and qDTY 12.1 ) having effects under varying degrees of stress severity showed the presence of more than one region within the original QTL. The study found the presence of a donor allele at RM262 within qDTY 2.1 and RM24334 within qDTY 9.1 showing a negative effect on GY under drought, indicating the necessity of precise fine mapping of QTL regions before using them in marker-assisted selection (MAS). However, the presence of sub-QTLs together in close vicinity to each other provides a unique opportunity to breeders to introgress such regions together as a unit into high-yielding drought-susceptible varieties through MAS.",
+  "publisher": "IRRI Dataverse",
+  "authors": [
+    "Dixit, Shalabh",
+    "Swamy, B. P. Mallikarjuna",
+    "Vikram, Prashant",
+    "Ahmed, H. U.",
+    "Sta Cruz, M. T.",
+    "Amante, Modesto",
+    "Atri, Dinesh",
+    "Leung, Hei",
+    "Kumar, Arvind"
+  ],
+  "producers": [],
+  "contacts": [
+    {
+      "name": "Arvind Kumar",
+      "affiliation": "IRRI"
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2013-11-04T01:49:41Z",
+  "updated_at": "2016-04-06T03:30:36Z",
+  "published_at": "2014-02-06T00:00:00Z",
+  "citation": "Dixit, Shalabh; Swamy, B. P. Mallikarjuna; Vikram, Prashant; Ahmed, H. U.; Sta Cruz, M. T.; Amante, Modesto; Atri, Dinesh; Leung, Hei; Kumar, Arvind, 2014, \"Fine mapping of QTLs for rice grain yield under drought reveals sub-QTLs conferring a response to variable drought severities\", https://doi.org/10.7910/DVN/23158, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

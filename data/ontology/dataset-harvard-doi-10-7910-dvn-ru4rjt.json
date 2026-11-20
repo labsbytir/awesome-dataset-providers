@@ -1,0 +1,29 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/RU4RJT",
+  "type": "Dataset",
+  "name": "Replication data for: The Effect of Social Conformity on Collective Voting Behavior",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/RU4RJT",
+  "doi": "doi:10.7910/DVN/RU4RJT",
+  "description": "This article investigates the effect of social conformity on voting behavior. Past research shows that many people vote to conform with the social norm that voting is a civic duty. The hypothesis here is that when conformity motivates people to vote, it also stimulates conformist behavior among some voters when they decide which party to vote for. This produces a distinctive relationship between voter turnout and the distribution of votes among parties\u2014a relationship not anticipated by rational choice theory. I test a mathematical model of this behavior with linear and nonlinear regression analyses of state-level data for presidential elections in the United States from 1904 to 1996, longitudinal data on parliamentary elections in Western Europe over most of the twentieth century, and cross-sectional data for recent elections in Western Europe, Eastern Europe, and Russia. The results generally validate the model.",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Stephen Coleman"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2010-02-11T19:11:47Z",
+  "updated_at": "2015-04-11T06:54:30Z",
+  "published_at": "2010-02-16T00:00:00Z",
+  "citation": "Stephen Coleman, 2010, \"Replication data for: The Effect of Social Conformity on Collective Voting Behavior\", https://doi.org/10.7910/DVN/RU4RJT, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

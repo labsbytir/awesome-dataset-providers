@@ -1,0 +1,15 @@
+{
+  "id": "provider:datagov:treasury",
+  "type": "Provider",
+  "name": "Department of the Treasury",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/treasury",
+  "organization_type": "Federal Government",
+  "aliases": [
+    "dept"
+  ],
+  "dataset_count": 235,
+  "source_count": 2,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

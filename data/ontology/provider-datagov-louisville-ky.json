@@ -1,0 +1,15 @@
+{
+  "id": "provider:datagov:louisville-ky",
+  "type": "Provider",
+  "name": "Louisville Metro Government",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/louisville-ky",
+  "organization_type": "City Government",
+  "aliases": [
+    "kentucky"
+  ],
+  "dataset_count": 512,
+  "source_count": 1,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

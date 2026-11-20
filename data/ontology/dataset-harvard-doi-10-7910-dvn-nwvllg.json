@@ -1,0 +1,29 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/NWVLLG",
+  "type": "Dataset",
+  "name": "Replication data for: Wireless Protesters Move Around: Informational and Coordinative Use of Information and Communication Technologies for Protest Politics",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/NWVLLG",
+  "doi": "doi:10.7910/DVN/NWVLLG",
+  "description": "This study explored information and communication technology (ICT) uses for protest politics, focusing on the case of a 2008 protest in Korea. Based on a survey of citizen activists (N = 322), it examined informational and coordinative uses of eight different ICTs for protest participation. The results indicated that heavy, moderate, and non protesters were differentiated, particularly regarding the use of Web sites of social movement organizations (SMOs), mobile phone, and email. Across all types of protesters, portal site was the most prominently utilized tool, while online micro-media showed little contribution. The findings call for the reconsideration of the waning role of SMOs in contemporary protest politics, and the differentiation of the public-oriented ICT from the private use of ICT regarding its contribution to expand civil society.",
+  "publisher": "Journal of Information Technology & Politics Dataverse",
+  "authors": [
+    "K. Hazel Kwon"
+  ],
+  "producers": [
+    "K. Hazel Kwon"
+  ],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2011-01-10T00:00:13Z",
+  "updated_at": "2015-04-11T07:06:28Z",
+  "published_at": "2012-02-07T00:00:00Z",
+  "citation": "K. Hazel Kwon, 2012, \"Replication data for: Wireless Protesters Move Around: Informational and Coordinative Use of Information and Communication Technologies for Protest Politics\", https://doi.org/10.7910/DVN/NWVLLG, Harvard Dataverse, V1, UNF:5:Fsatq6+zOJhueoQGTxkgSQ== [fileUNF]",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

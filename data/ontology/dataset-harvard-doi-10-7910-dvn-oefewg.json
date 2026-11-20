@@ -1,0 +1,27 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/OEFEWG",
+  "type": "Dataset",
+  "name": "Replication data for: Does Taxation Lead to Representation?",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/OEFEWG",
+  "doi": "doi:10.7910/DVN/OEFEWG",
+  "description": "Does their need for greater tax revenue force governments to democratize? Most research on contemporary democratization says little about the effects of taxation. Yet there are good reasons to believe that taxation led to representation in the past: representative government first came about in early modern Europe when monarchs were compelled to relinquish some of their authority to parliamentary institutions, in exchange for the ability to raise new taxes; similarly, the war for independence in the United States began as a rebellion against British taxes. Some scholars argue that a comparable process is occurring today: the need to raise taxes forces authoritarian governments to democratize. These claims have never been carefully tested. In this article, the \u2018taxation leads to representation\u2019 argument is explored and tested using pooled time-series cross-national data from 113 countries between 1971 and 1997. One version of the argument appears to be valid, while another does not. These findings are important both for scholars who wish to understand the causes of democracy, and for policy makers who wish to promote it.",
+  "publisher": "Michael L. Ross Dataverse",
+  "authors": [
+    "Michael L. Ross"
+  ],
+  "producers": [],
+  "contacts": [
+    {
+      "name": "Michael L. Ross",
+      "affiliation": "UCLA"
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2010-02-24T03:33:10Z",
+  "updated_at": "2015-04-11T07:06:07Z",
+  "published_at": "2010-02-23T00:00:00Z",
+  "citation": "Michael L. Ross, 2010, \"Replication data for: Does Taxation Lead to Representation?\", https://doi.org/10.7910/DVN/OEFEWG, Harvard Dataverse, V1, UNF:5:8Ymx2XXoRulfSgFb5Xq1uQ== [fileUNF]",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/CJUG8F",
+  "type": "Dataset",
+  "name": "Replication data for: How Does Multilevel Regression and Poststratification (MRP) Perform with Conventional National Surveys?",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/CJUG8F",
+  "doi": "doi:10.7910/DVN/CJUG8F",
+  "description": null,
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Buttice, Matthew K.",
+    "Highton, Benjamin"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "Benjamin Highton",
+      "affiliation": "University of California, Davis"
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2013-07-31T18:02:02Z",
+  "updated_at": "2015-04-11T06:54:31Z",
+  "published_at": "2014-10-02T00:00:00Z",
+  "citation": "Buttice, Matthew K.; Highton, Benjamin, 2013, \"Replication data for: How Does Multilevel Regression and Poststratification (MRP) Perform with Conventional National Surveys?\", https://doi.org/10.7910/DVN/CJUG8F, Harvard Dataverse, V2",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

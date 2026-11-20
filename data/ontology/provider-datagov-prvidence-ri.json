@@ -1,0 +1,15 @@
+{
+  "id": "provider:datagov:prvidence-ri",
+  "type": "Provider",
+  "name": "City of Providence",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/prvidence-ri",
+  "organization_type": "City Government",
+  "aliases": [
+    "rhode island"
+  ],
+  "dataset_count": 235,
+  "source_count": 1,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

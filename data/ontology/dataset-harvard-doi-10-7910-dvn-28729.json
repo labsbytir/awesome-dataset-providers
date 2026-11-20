@@ -1,0 +1,28 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/28729",
+  "type": "Dataset",
+  "name": "Replication data for: Estimating the Severity of the WikiLeaks United States Diplomatic Cables Disclosure",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/28729",
+  "doi": "doi:10.7910/DVN/28729",
+  "description": "In November 2010, the WikiLeaks organization began the release of over 250, 000 diplomatic cables sent by US embassies to the US State Department, uploaded to its website by (then) Private Manning, an intelligence analyst with the US Army. This leak was widely condemned, including by the then Secretary of State, Hillary Clinton. We assess the severity of the leak by considering the size of the disclosure relative to all diplomatic cables that were in existence at the time\u00c3\u00a2\u00c2\u0080\u00c2\u0094a quantity that is not known outside of official sources. We rely on the fact that the cables that were leaked are internally indexed in such a way that they may be treated as a sample from a discrete uniform distribution with unknown maximum; this is a version of the well known \u00c3\u00a2\u00c2\u0080\u00c2\u009cGerman Tank Problem\u00c3\u00a2\u00c2\u0080\u00c2\u009d. We consider three estimators that rely on discrete uniformity\u00c3\u00a2\u00c2\u0080\u00c2\u0094maximum likelihood, Bayesian and frequentist unbiased minimum variance\u00c3\u00a2\u00c2\u0080\u00c2\u0094and demonstrate that the results are very similar in all cases. To supplement these estimators, we em- ploy a regression-based procedure that incorporates the timing of cables\u00c3\u00a2\u00c2\u0080\u00c2\u0099 release in addition to their observed serial numbers. We estimate that, overall, approximately 5% of all cables from this timeframe were leaked, but that this number varies considerably at the embassy-year level. Our work provides a useful characterization of the sample of documents available to international relations scholars interested in testing theories of \u00c3\u00a2\u00c2\u0080\u00c2\u0098private information\u00c3\u00a2\u00c2\u0080\u00c2\u0099, while helping to inform the public debate surrounding Manning\u00c3\u00a2\u00c2\u0080\u00c2\u0099s trial and thirty-five year prison sentence.",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Gill, Michael",
+    "Spirling, Arthur"
+  ],
+  "producers": [],
+  "contacts": [
+    {
+      "name": "Michael Gill",
+      "affiliation": "PhD Candidate, Harvard University"
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2015-01-17T19:13:03Z",
+  "updated_at": "2015-04-11T06:53:28Z",
+  "published_at": "2015-01-27T00:00:00Z",
+  "citation": "Gill, Michael; Spirling, Arthur, 2015, \"Replication data for: Estimating the Severity of the WikiLeaks United States Diplomatic Cables Disclosure\", https://doi.org/10.7910/DVN/28729, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

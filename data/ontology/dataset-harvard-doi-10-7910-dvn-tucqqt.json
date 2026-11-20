@@ -1,0 +1,27 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/TUCQQT",
+  "type": "Dataset",
+  "name": "The Quality of Voter Registration Records: A State-by-State Analysis",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/TUCQQT",
+  "doi": "doi:10.7910/DVN/TUCQQT",
+  "description": null,
+  "publisher": "CCES Dataverse",
+  "authors": [
+    "Ansolabehere, Stephen"
+  ],
+  "producers": [],
+  "contacts": [
+    {
+      "name": "Stephen Ansolabehere",
+      "affiliation": "Harvard"
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2012-07-17T20:36:37Z",
+  "updated_at": "2015-04-11T06:50:15Z",
+  "published_at": "2012-07-19T00:00:00Z",
+  "citation": "Ansolabehere, Stephen, 2012, \"The Quality of Voter Registration Records: A State-by-State Analysis\", https://doi.org/10.7910/DVN/TUCQQT, Harvard Dataverse, V2",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/32BYPP",
+  "type": "Dataset",
+  "name": "Replication data for: \"Drafting Support for War: Conscription and Mass Support for Warfare\"",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/32BYPP",
+  "doi": "doi:10.7910/DVN/32BYPP",
+  "description": "How does a military\u2019s recruitment policy\u2014whether a country has a draft or conscript army\u2014influence mass support for war? We investigate how military recruitment affects the way the American public evaluates whether a war is worth fighting. While some argue that conscription decreases support for war by making its costs more salient, others argue that it increases support by signaling the importance of the conflict. Existing evidence is inconclusive, with data limited to one particular conflict. Using an original survey experiment, we find strong support for the argument that conscription decreases mass support for war, a finding that replicates in several different settings. We also show that these findings are driven by concerns about self-interest, consistent with our theory. We conclude by discussing the relevance of these findings for debates about how domestic political conditions influence when states go to war.",
+  "publisher": "Matt Levendusky Dataverse",
+  "authors": [
+    "Matthew Levendusky",
+    "Michael Horowitz"
+  ],
+  "producers": [],
+  "contacts": [
+    {
+      "name": "Matt Levendusky",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [
+    "Social Sciences"
+  ],
+  "file_count": 1,
+  "created_at": "2010-09-07T19:00:43Z",
+  "updated_at": "2015-06-04T19:05:15Z",
+  "published_at": "2010-09-14T00:00:00Z",
+  "citation": "Matthew Levendusky; Michael Horowitz, 2010, \"Replication data for: \"Drafting Support for War: Conscription and Mass Support for Warfare\"\", https://doi.org/10.7910/DVN/32BYPP, Harvard Dataverse, V2",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

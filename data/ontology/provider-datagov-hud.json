@@ -1,0 +1,15 @@
+{
+  "id": "provider:datagov:hud",
+  "type": "Provider",
+  "name": "Department of Housing and Urban Development",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/hud",
+  "organization_type": "Federal Government",
+  "aliases": [
+    "dept"
+  ],
+  "dataset_count": 226,
+  "source_count": 1,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

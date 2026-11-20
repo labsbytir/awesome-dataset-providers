@@ -1,0 +1,29 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/24776",
+  "type": "Dataset",
+  "name": "Doing archives indicators",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/24776",
+  "doi": "doi:10.7910/DVN/24776",
+  "description": "Indicators on 11 archival topics measure the efficiency of those who curate the world's knowledge in resolving operational archives practice and management issues. The data are built by following the step-by-step evolution of an archival process in actual repositories, or in experimental situations (for instance completing online global archives institute courseware). The data are collected through study of the legal, quasi-legal and self governing guidance offered by professional societies as well as questionnaires, model reports, model agreements completed by practicing archivists, allied professionals (lawyers, appraisers, accountants, records managers, librarians) and by professional societies and their components. The ranking on the ease of archival practice and management is the simple average of the percentile rankings on its component indicators. The list of procedural steps compiled for each indicator traces the chronology of an archival process. A procedure is defined as any interaction, required or commonly used in practice. Other procedural steps, internal to the repository or between people essential to the activity are included. Methodologies are developed by 4 (four) project councils - advocacy, data, education, law and are revisited each year based on accumulated data an d commentary.",
+  "publisher": "Doing archives Dataverse",
+  "authors": [
+    "Felker, Christopher"
+  ],
+  "producers": [
+    "Doing archives project"
+  ],
+  "contacts": [
+    {
+      "name": "Christopher Felker",
+      "affiliation": "creator"
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2014-02-21T18:42:57Z",
+  "updated_at": "2015-04-11T07:06:21Z",
+  "published_at": "2014-02-21T00:00:00Z",
+  "citation": "Felker, Christopher, 2014, \"Doing archives indicators\", https://doi.org/10.7910/DVN/24776, Harvard Dataverse, V3",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

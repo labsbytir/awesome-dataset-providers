@@ -1,0 +1,32 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/OT4PQE",
+  "type": "Dataset",
+  "name": "Monitoring Ecosystem Sevices - Bird biodiversity",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/OT4PQE",
+  "doi": "doi:10.7910/DVN/OT4PQE",
+  "description": "Between 2003 and 2006 different taxa were collected, in two complete periods of bird monitoring in each country.We developed a methodology to construct indexes to evaluate biodiversity in each of the land uses included in the study. The focus was to understand the role of silvopastoral systems to conserve bird diversity. 111 Bird species were observed in Matiguas Nicaragua.",
+  "publisher": "Sentinel Landscape Nicaragua Honduras Dataverse",
+  "authors": [
+    "Mijail Perez",
+    "Elias Ramirez",
+    "Joel S\u00e1enz",
+    "Muhammad Ibrahim"
+  ],
+  "producers": [
+    "Regional Project Promoting Integrated Silvopastoral Systems for the Management of Ecosystems"
+  ],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2013-02-22T19:15:11Z",
+  "updated_at": "2015-04-11T07:02:29Z",
+  "published_at": "2013-02-22T00:00:00Z",
+  "citation": "Mijail Perez; Elias Ramirez; Joel S\u00e1enz; Muhammad Ibrahim, 2013, \"Monitoring Ecosystem Sevices - Bird biodiversity\", https://doi.org/10.7910/DVN/OT4PQE, Harvard Dataverse, V2",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

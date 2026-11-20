@@ -1,0 +1,16 @@
+{
+  "id": "provider:datagov:census",
+  "type": "Provider",
+  "name": "U.S. Census Bureau, Department of Commerce",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/census",
+  "organization_type": "Federal Government",
+  "aliases": [
+    "US",
+    "dept"
+  ],
+  "dataset_count": 255636,
+  "source_count": 576,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "provider:datagov:ferc-json",
+  "type": "Provider",
+  "name": "Federal Energy Regulatory Commission",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/ferc-json",
+  "organization_type": "Federal Government",
+  "aliases": [
+    "US",
+    "fed"
+  ],
+  "dataset_count": 60,
+  "source_count": 1,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/IJOR6C",
+  "type": "Dataset",
+  "name": "Starter Pack (SP2) Evaluation Programme 1999-2000",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/IJOR6C",
+  "doi": "doi:10.7910/DVN/IJOR6C",
+  "description": "The 1999-2000 Starter Pack Evaluation Programme was designed to evaluate selected aspects of the first and second years of the Starter Pack Scheme (SPS). It was an evaluation exercise in the sense that it attempted a one-off assessment of the SPS to try to determine whether it achieved the intended objectives. We attempted to judge the \"merit or worth\" of Starter Pack as an intervention. In order to do this, we needed to establish what were the expected outcomes from the SPS (the key objectives). Objectives: 1. Increasing national food production, in particular for maize; 2. Reducing household food insecurity, particularly for the poorest farm families; 3. Provision of legume crops to improce soil fertility and diet; and 4. Promoting the use of chemical fertiliser and hybrid maize by smallholder farmers. There were five modules in the Programme - data and reports from modules 2, 4 and 5 are available as separate studies in this DataVerse.",
+  "publisher": "Statistical Services Centre Dataverse",
+  "authors": [],
+  "producers": [],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2011-05-04T08:34:05Z",
+  "updated_at": "2015-04-11T07:05:35Z",
+  "published_at": "2011-05-04T00:00:00Z",
+  "citation": "2011, \"Starter Pack (SP2) Evaluation Programme 1999-2000\", https://doi.org/10.7910/DVN/IJOR6C, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

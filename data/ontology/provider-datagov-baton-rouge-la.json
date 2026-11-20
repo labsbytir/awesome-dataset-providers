@@ -1,0 +1,15 @@
+{
+  "id": "provider:datagov:baton-rouge-la",
+  "type": "Provider",
+  "name": "City of Baton Rouge",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/baton-rouge-la",
+  "organization_type": "City Government",
+  "aliases": [
+    "louisiana"
+  ],
+  "dataset_count": 254,
+  "source_count": 1,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

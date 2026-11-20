@@ -1,0 +1,29 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/7QYM4J",
+  "type": "Dataset",
+  "name": "Replication data for: Which Electoral Formula Is the Most Proportional? A New Look with New Evidence",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/7QYM4J",
+  "doi": "doi:10.7910/DVN/7QYM4J",
+  "description": "A ranking exists in electoral systems research of different electoral formulas\u2014the mathematical functions governing the conversion of votes into legislative seats\u2014in terms of both proportionality of seats and votes and favorability to the largest party. I reexamine this issue with new methods and new evidence, attempting to cross-validate previous rankings using a larger and more controlled data set and more precise parametric methods than have been applied previously. The results by and large confirm previous knowledge but also illuminate several important new facets obscured in previous investigations. For example, at common ranges of district magnitude (from 5 to 15 seats), it is shown that electoral formula may matter at least as much as district magnitude in shaping proportionality.",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Kenneth Benoit"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2009-12-21T17:25:29Z",
+  "updated_at": "2015-04-11T06:53:22Z",
+  "published_at": "2010-03-04T00:00:00Z",
+  "citation": "Kenneth Benoit, 2010, \"Replication data for: Which Electoral Formula Is the Most Proportional? A New Look with New Evidence\", https://doi.org/10.7910/DVN/7QYM4J, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/FAYO2T",
+  "type": "Dataset",
+  "name": "Mozambique (2006): Medindo o Accesso do produto Certeza",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/FAYO2T",
+  "doi": "doi:10.7910/DVN/FAYO2T",
+  "description": "O projecto MAP foi realizado com o objectivo de determinar a cobertura e qualidade de cobertura e penetracao da purificadora de agua Certeza e produzir estimativas de base sobre a sua disponibilidade na zona Urbana de Nampula em Agosto de 2006. As areas de supervisao nas quais os dados foram recolhidos sao as nossas principais fontes de venda de Certeza. Em cada zona fazia-se a contagem de todos os potenciais postos de venda existentes e todos os postos de venda potenciais com produto Certeza. No decorrer da contagem, os primeiros 2 postos de venda potenciais identificados com produto na area Comercial da zona urbana, realizavam-se as entrevistas.",
+  "publisher": "PSI/Mozambique Dataverse",
+  "authors": [
+    "Brian Smith",
+    "Marcos Chissano"
+  ],
+  "producers": [
+    "PSI/Mozambique"
+  ],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2011-08-19T21:14:04Z",
+  "updated_at": "2015-04-11T06:48:07Z",
+  "published_at": "2014-09-12T00:00:00Z",
+  "citation": "Brian Smith; Marcos Chissano, 2011, \"Mozambique (2006): Medindo o Accesso do produto Certeza\", https://doi.org/10.7910/DVN/FAYO2T, Harvard Dataverse, V3",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

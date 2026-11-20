@@ -1,0 +1,16 @@
+{
+  "id": "provider:datagov:los-angeles-ca",
+  "type": "Provider",
+  "name": "City of Los Angeles",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/los-angeles-ca",
+  "organization_type": "City Government",
+  "aliases": [
+    "la",
+    "california"
+  ],
+  "dataset_count": 385,
+  "source_count": 1,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

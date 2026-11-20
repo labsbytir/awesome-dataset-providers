@@ -1,0 +1,15 @@
+{
+  "id": "provider:datagov:opentopography",
+  "type": "Provider",
+  "name": "OpenTopography",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/opentopography",
+  "organization_type": "University",
+  "aliases": [
+    ""
+  ],
+  "dataset_count": 1615,
+  "source_count": 2,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

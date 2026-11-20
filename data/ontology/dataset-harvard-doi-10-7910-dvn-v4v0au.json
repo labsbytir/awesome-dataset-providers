@@ -1,0 +1,29 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/V4V0AU",
+  "type": "Dataset",
+  "name": "Replication data for: Scoring from Contests",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/V4V0AU",
+  "doi": "doi:10.7910/DVN/V4V0AU",
+  "description": "battles.csv -- The matrix of contest participants from the example in the appendix outcomes.vsv -- The matrix of contest outcomes from the example in the appendix scoring.R -- The R functions that implement the scoring method and check for pairwise comparability conditions + use `source(\"scoring.R\")' to access the score() and check.similarity() functions Examples.R -- Some examples that show how to use the functions in scoring.R, including the example in the appendix of the paper thermometer.R -- code to run the feeling thermometer examples on the national data. Reproduces figures 1 and 2 thermometerTX.R -- code to run thermometer example with bootstrapping on data fror Texas democrats. Reproduces Figure 3.",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Schnakenberg, Keith"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "Keith Schnakenberg",
+      "affiliation": "Washington University in St. Louis"
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2013-07-31T13:56:25Z",
+  "updated_at": "2015-04-11T06:54:27Z",
+  "published_at": "2014-10-02T00:00:00Z",
+  "citation": "Schnakenberg, Keith, 2013, \"Replication data for: Scoring from Contests\", https://doi.org/10.7910/DVN/V4V0AU, Harvard Dataverse, V2",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/27998",
+  "type": "Dataset",
+  "name": "Replication data for: (Mis)Perceptions of Partisan Polarization in the American Public",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/27998",
+  "doi": "doi:10.7910/DVN/27998",
+  "description": "These files contain the data and stata do files needed to replicate the analysis in \"(Mis)Percpetions of Partisan Polarization in the American Public\" by Levendusky & Malhotra, Public Opinion Quarterly.",
+  "publisher": "Matt Levendusky Dataverse",
+  "authors": [
+    "Levendusky, Matthew",
+    "Malhotra, Neil"
+  ],
+  "producers": [
+    "Matthew Levendusky"
+  ],
+  "contacts": [
+    {
+      "name": "Matthew Levendusky",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2014-12-04T14:29:21Z",
+  "updated_at": "2015-04-11T06:46:15Z",
+  "published_at": "2014-12-04T00:00:00Z",
+  "citation": "Levendusky, Matthew; Malhotra, Neil, 2014, \"Replication data for: (Mis)Perceptions of Partisan Polarization in the American Public\", https://doi.org/10.7910/DVN/27998, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

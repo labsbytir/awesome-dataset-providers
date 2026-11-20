@@ -1,0 +1,30 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/J0HXBX",
+  "type": "Dataset",
+  "name": "Mozambique (2009): Painting the Border - Ethnographic Study of HIV Risk and Prevention at the Ressano Garcia Border Post Maputo Province, Mozambique",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/J0HXBX",
+  "doi": "doi:10.7910/DVN/J0HXBX",
+  "description": "PSI's primary objective in conducting the study was to collect information to improve the impact of its behavior change interventions through the development of a more in-depth understanding of sexual behavior and networks in a location where different groups engaging in risky sexual practices intersect. Specifically, the study aimed to identify border populations at high risk of HIV infection , describe the profile of these groups with regards to risky sexual practices, describe the social networks that exist in terms of hierarchy and power dynamics, and identify the key factors that may influence high risk behavior.",
+  "publisher": "PSI/Mozambique Dataverse",
+  "authors": [
+    "Fatima Mussa",
+    "Dvora Joseph"
+  ],
+  "producers": [
+    "PSI/Mozambique"
+  ],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2011-08-19T21:13:44Z",
+  "updated_at": "2015-04-11T06:48:02Z",
+  "published_at": "2014-09-12T00:00:00Z",
+  "citation": "Fatima Mussa; Dvora Joseph, 2011, \"Mozambique (2009): Painting the Border - Ethnographic Study of HIV Risk and Prevention at the Ressano Garcia Border Post Maputo Province, Mozambique\", https://doi.org/10.7910/DVN/J0HXBX, Harvard Dataverse, V3",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "provider:datagov:fgdc",
+  "type": "Provider",
+  "name": "Federal Geographic Data Committee",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/fgdc",
+  "organization_type": "Federal Government",
+  "aliases": [
+    ""
+  ],
+  "dataset_count": 49,
+  "source_count": 7,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

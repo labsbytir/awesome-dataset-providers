@@ -1,0 +1,30 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/6UANXQ",
+  "type": "Dataset",
+  "name": "Replication data for: Confronting Political Economic Theories of Voting with Evidence",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/6UANXQ",
+  "doi": "doi:10.7910/DVN/6UANXQ",
+  "description": "This paper illustrates one strategy for testing a theory of economic influences on voting. We use a competitive equilibrium model of the economy to determine the impact of an individual\u2019s economic position on his or her economic interests and, ultimately, political interests. We then test whether this impact is observed in voting behavior, addressing the resulting specification and estimation problems in the context of U.S. presidential election data. Our empirical results suggest that, despite these formidable problems, we can usefully connect political\u2013economic models and discrete-choice (probit) models of voting.",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Robert Grafstein",
+    "Ann Moser"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2010-02-16T20:40:05Z",
+  "updated_at": "2015-04-11T06:54:03Z",
+  "published_at": "2010-03-04T00:00:00Z",
+  "citation": "Robert Grafstein; Ann Moser, 2010, \"Replication data for: Confronting Political Economic Theories of Voting with Evidence\", https://doi.org/10.7910/DVN/6UANXQ, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

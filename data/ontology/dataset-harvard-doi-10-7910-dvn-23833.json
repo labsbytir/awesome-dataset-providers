@@ -1,0 +1,31 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/23833",
+  "type": "Dataset",
+  "name": "Breeding ecology of rice field rats, Rattus argentiventer and R. tanezumi in lowland irrigated rice systems in the Philippines",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/23833",
+  "doi": "doi:10.7910/DVN/23833",
+  "description": "Rodents are one of the major pests in lowland irrigated rice crops in the Philippines. Rattus tanezumi occurs throughout the Philippines, whereas Rattus argentiventer does not occur on the main island of Luzon. Little is known about the breeding ecology of R. argentiventer and R. tanezumi where they coexist in the Philippines. We hypothesised that R. tanezumi breeding occurs throughout the season whereas the breeding of R. argentiventer is strongly cued to the generative stage of rice crops. We examined the breeding ecology of the two species in San Jose, Mindoro, Philippines, for four rice cropping seasons (two dry and two wet) over two years, 2009-2010, as a basis to develop effective management. We found to our surprise that their breeding ecology was similar. For both species (i) the onset of the breeding season was at the tillering stage of the rice crop; (ii) conception of adult females was highest at booting and ripening of rice; (iii) the highest litter size occurred at the ripenin g and stubble stages, and the lowest at tillering. Based on their breeding ecology we recommend that the most effective strategy to reduce damage to rice crops is to prevent the development of high populations of both species of rice field rats. This goal requires coordinated community control at both the sowing/planting time and maximum tillering of rice, in combination with the synchronous planting of rice to limit the length of the main breeding season.",
+  "publisher": "IRRI Dataverse",
+  "authors": [
+    "Nyo Me Htwe",
+    "Grant R. Singleton",
+    "Lyn A. Hinds",
+    "Catherine R. Propper",
+    "Vincent Sluydts"
+  ],
+  "producers": [],
+  "contacts": [
+    {
+      "name": "Grant R. Singleton",
+      "affiliation": "IRRI-CESD"
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2013-12-10T07:58:58Z",
+  "updated_at": "2016-04-06T03:09:52Z",
+  "published_at": "2014-01-08T00:00:00Z",
+  "citation": "Nyo Me Htwe; Grant R. Singleton; Lyn A. Hinds; Catherine R. Propper; Vincent Sluydts, 2014, \"Breeding ecology of rice field rats, Rattus argentiventer and R. tanezumi in lowland irrigated rice systems in the Philippines\", https://doi.org/10.7910/DVN/23833, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

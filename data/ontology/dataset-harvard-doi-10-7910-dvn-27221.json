@@ -1,0 +1,29 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/27221",
+  "type": "Dataset",
+  "name": "Replication data for: Policy Space and Regional Predilections:  Partisanship and Trade Agreements in Latin America",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/27221",
+  "doi": "doi:10.7910/DVN/27221",
+  "description": "Replication data for \"Policy Space and Regional Predilections: Partisanship and Trade Agreements in Latin America\"",
+  "publisher": "Robert Galantucci Dataverse",
+  "authors": [
+    "Robert Galantucci"
+  ],
+  "producers": [
+    "Robert Galantucci"
+  ],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2014-09-01T11:49:58Z",
+  "updated_at": "2015-04-11T06:45:19Z",
+  "published_at": "2014-09-01T00:00:00Z",
+  "citation": "Robert Galantucci, 2014, \"Replication data for: Policy Space and Regional Predilections: Partisanship and Trade Agreements in Latin America\", https://doi.org/10.7910/DVN/27221, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

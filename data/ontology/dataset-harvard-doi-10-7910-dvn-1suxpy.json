@@ -1,0 +1,31 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/1SUXPY",
+  "type": "Dataset",
+  "name": "Replication data for: Fairness and Rejection in the Ultimatum Bargaining Game",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/1SUXPY",
+  "doi": "doi:10.7910/DVN/1SUXPY",
+  "description": "The ultimatum game is a standard instrument for laboratory experimentalists. It has been replicated in a large number of environments and points to special considerations for fairness. Although it has been popular in the experimental community, researchers have not harnessed all the statistical power they should to evaluate the dynamics at work in this type of a bargaining game. This research uses two planned treatments, the first involving a signaling condition concerning a subject's \"type,\" and the second a price effect built into the structure of the game. We find that there are no significant main effects as a result of the signaling condition of a subject's type, but that there are strong effects as a result of the different payoff parameters. Using a variety of multivariate models we find important, nonobvious interactions with the gender of the subjects. The lesson that we take away from this research is that experimentalists can learn more from data collected in the tightly controlled laboratory environment by using statistical techniques that complement their research designs.",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Chatherine Eckel",
+    "Martin Johnson",
+    "Rick K. Wilson"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2010-03-08T17:41:56Z",
+  "updated_at": "2015-04-11T06:53:11Z",
+  "published_at": "2010-03-08T00:00:00Z",
+  "citation": "Chatherine Eckel; Martin Johnson; Rick K. Wilson, 2010, \"Replication data for: Fairness and Rejection in the Ultimatum Bargaining Game\", https://doi.org/10.7910/DVN/1SUXPY, Harvard Dataverse, V1, UNF:5:oAJVnMe1eBmldK9TwrLerg== [fileUNF]",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

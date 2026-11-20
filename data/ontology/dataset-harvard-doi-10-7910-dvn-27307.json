@@ -1,0 +1,29 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/27307",
+  "type": "Dataset",
+  "name": "Replication data for: Informal Politics and Inequality of Access to Healthcare in Lebanon",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/27307",
+  "doi": "doi:10.7910/DVN/27307",
+  "description": "Data are from an original national household survey designed by Melani Cammett and conducted in spring 2008 by Statistics Lebanon. The survey includes information on individual and household access to primary and secondary healthcare, financial aid for health and other forms of social assistance, religious identity and observance, political preferences and participation, and standard demographic questions. The sample was designed as a cross-section of all citizens above the age of 18 in Lebanon. Based on a stratified, multi-stage, area probability sample, households were selected randomly based on probability proportionate to population size (PPPS). The sample was stratified by province, reducing the likelihood that distinctive regions, which tend to have varied concentrations of religious or ethnic groups, were left out of the sample. Next, a PPPS procedure was used to randomly select primary sampling units (PSU) in order to guarantee that more populated geographical units had a greater probability of being chosen. Households were then randomly selected within each PSU. The response rate for the national survey was 67 percent (1911 out of 2859 individuals).",
+  "publisher": "Melani Cammett Dataverse",
+  "authors": [
+    "Cammett, Melani"
+  ],
+  "producers": [],
+  "contacts": [
+    {
+      "name": "Melani Cammett",
+      "affiliation": "Harvard University"
+    }
+  ],
+  "subjects": [
+    "Social Sciences"
+  ],
+  "file_count": 1,
+  "created_at": "2014-09-09T01:51:28Z",
+  "updated_at": "2015-05-20T16:52:05Z",
+  "published_at": "2015-05-20T16:52:05Z",
+  "citation": "Cammett, Melani, 2015, \"Replication data for: Informal Politics and Inequality of Access to Healthcare in Lebanon\", https://doi.org/10.7910/DVN/27307, Harvard Dataverse, V1, UNF:5:+c6zLejt62VUdESRk9Ppow== [fileUNF]",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

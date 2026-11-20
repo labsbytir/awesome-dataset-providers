@@ -1,0 +1,29 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/UCGN7P",
+  "type": "Dataset",
+  "name": "Replication data for: The Institutionalization of the US Supreme Court",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/UCGN7P",
+  "doi": "doi:10.7910/DVN/UCGN7P",
+  "description": "In pursuing their goals, members of the U.S. Supreme Court are affected by their institutional setting. How has that institutional environment changed over time and what have been the political consequences of those changes? Despite considerable analysis of the institutional dynamics of legislatures and executives, political scientists have been slow to bring time series techniques to the study of the Supreme Court, and as a result much less is known about its evolutionary path. Measuring a variety of organizational characteristics, I construct an index of the institutionalization of the Supreme Court from 1790 to 1996. This indicator suggests that the integration of the Court into the system of federal policy making has better enabled the justices to satisfy their objectives. To demonstrate this empirically, I test a series of error correction models of judicial influence, each of which confirms that the nature of the Supreme Court's character has had considerable implications for the scope of the justices' legal and political impact. These results underscore the need for judicial scholars to examine the Court's policy making in longitudinal perspective.",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Kevin T. McGuire"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2010-02-11T19:47:17Z",
+  "updated_at": "2015-04-11T06:53:42Z",
+  "published_at": "2010-02-16T00:00:00Z",
+  "citation": "Kevin T. McGuire, 2010, \"Replication data for: The Institutionalization of the US Supreme Court\", https://doi.org/10.7910/DVN/UCGN7P, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

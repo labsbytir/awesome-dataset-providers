@@ -1,0 +1,29 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/29490",
+  "type": "Dataset",
+  "name": "Methodological appendix for the article \"Who leads, who follows? Re-examining the party-electorate linkages on European integration\"",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/29490",
+  "doi": "doi:10.7910/DVN/29490",
+  "description": "Broken link to the online supplement in the original article.",
+  "publisher": "Johan Hellstrom Dataverse",
+  "authors": [
+    "Johan Hellstrom"
+  ],
+  "producers": [
+    "Johan Hellstrom"
+  ],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2015-03-16T14:44:44Z",
+  "updated_at": "2015-04-11T07:06:16Z",
+  "published_at": "2015-03-16T00:00:00Z",
+  "citation": "Johan Hellstrom, 2015, \"Methodological appendix for the article \"Who leads, who follows? Re-examining the party-electorate linkages on European integration\"\", https://doi.org/10.7910/DVN/29490, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/WAQMYN",
+  "type": "Dataset",
+  "name": "Replication data for: Reexaminng the Media's Role in Forming Voters' National Economic Evaluations in 1992 Using the Sample Error Correction Method",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/WAQMYN",
+  "doi": "doi:10.7910/DVN/WAQMYN",
+  "description": "This note replicates and extends Marc J. Hetherington\u2019s \u201cThe Media\u2019s Role in Forming Voters\u2019 National Economic Evaluations in 1992\u201d (American Journal of Political Science 40(2):372\u2013395). Using an early release of the National Election Study (NES) data for 1992, Hetherington concluded that, in the 1992 election (although not in other years), negative media coverage of economic conditions created pessimistic perceptions of the economy among voters. As a result, voters formed negative retrospective evaluations of the Bush presidency that ultimately led to the defeat of George Bush. If this media effect is robust, then the effect should be present in a replication using the complete 1992 NES data set. Further, this finding should also withstand an extension using the sample error correction mechanism that applies a distinctive weight to adjust the standard errors for the peculiarities of the sampling procedure used by the NES. Although the National Election Study is overall a probability sample, the selection of the primary sampling unit includes 16 units selec ted with a probability of one. The non-uniform probability selection mechanisms can present potentially serious problems for analyses relying on an assumption of a normal distribution of disturbances. Generally, I find that Hetherington\u2019s effects are present, although diminished, when the final release of the 1992 NES data is used. However, when the sample error correction method is employed, the media effect disappears.",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Cristina Ling"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2010-02-16T20:02:40Z",
+  "updated_at": "2015-04-11T06:54:25Z",
+  "published_at": "2010-03-04T00:00:00Z",
+  "citation": "Cristina Ling, 2010, \"Replication data for: Reexaminng the Media's Role in Forming Voters' National Economic Evaluations in 1992 Using the Sample Error Correction Method\", https://doi.org/10.7910/DVN/WAQMYN, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

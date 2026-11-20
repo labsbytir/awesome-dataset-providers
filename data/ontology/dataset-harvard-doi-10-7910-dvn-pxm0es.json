@@ -1,0 +1,30 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/PXM0ES",
+  "type": "Dataset",
+  "name": "Replication data for: Classification by Opinion Changing Behavior: A Mixture Model Approach",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/PXM0ES",
+  "doi": "doi:10.7910/DVN/PXM0ES",
+  "description": "We illustrate the use of a class of statistical models, finite mixture models, that can be used to allow for differences in model parameterizations across groups, even in the absence of group labels. We also introduce a methodology for fitting these models, data augmentation. Neither finite mixture models nor data augmentation is routine in the world of political science methodology, but both are quite standard in the statistical literature. The techniques are applied to an investigation of the empirical support for a theory (developed fully by Hill and Kriesi 2001) that extends Converse\u2019s (1964) \u201cblack-and-white\u201d model of response stability. Our model formulation enables us (1) to provide reliable estimates of the size of the two groups of individuals originally distinguished in this model, opinion holders and unstable opinion changers; (2) to examine the evidence for Converse\u2019s basic claim that these unstable changers truly exhibit nonattitudes; and (3) to estimate the size of a newly defined group, durable changers, whose members exhibit more stable opinion change. Our application uses survey data collected at four time points over nearly 2 years which track Swiss citizens\u2019 readiness to support pollution-reduction policies. The results, combined with flexible model checks, provide support for portions of Converse and Zaller\u2019s (1992) theories on response instability and appear to weaken the measurement-error arguments of Achen (1975) and others. This paper concentrates on modeling issues and serves as a companion paper to Hill and Kriesi (2001), which uses the same data set and model but focuses more on the details of the opinion-changing behavior debate.",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Jennifer Hill",
+    "Hanspeter Kriesi"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2010-02-16T20:36:32Z",
+  "updated_at": "2015-04-11T06:52:51Z",
+  "published_at": "2010-03-04T00:00:00Z",
+  "citation": "Jennifer Hill; Hanspeter Kriesi, 2010, \"Replication data for: Classification by Opinion Changing Behavior: A Mixture Model Approach\", https://doi.org/10.7910/DVN/PXM0ES, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

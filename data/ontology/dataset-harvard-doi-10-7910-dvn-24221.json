@@ -1,0 +1,31 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/24221",
+  "type": "Dataset",
+  "name": "Modifications in development and growth of a dual-adapted tropical rice variety grown as either a flooded or an aerobic crop",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/24221",
+  "doi": "doi:10.7910/DVN/24221",
+  "description": "As the human population continues to grow and competition for natural resources increases, there is a consequent need to produce more food with fewer resources. Flooded rice crops use large quantities of water, which becomes scarcer for farmers. New methods of saving irrigation water have been tested and released but they often suffer from a yield trade-off. A comparative study was carried out with a recent dual-adapted variety cultivated as either a flooded transplanted crop or a direct-seeded and soil water-saturated crop, referred to as an aerobic crop, to dissect the crop physiological differences induced by crop management. Experiments were conducted at IRRI's experiment station in Los Banos, Philippines, in the dry seasons of 2011 and 2012. Grain yields were 2 tons/ha or 25% lower in the aerobic crop as a result of a complex series of modifications and adjustments in plant architecture and yield components. Four main changes higher plant density, slower rate of leaf appearance, lower nitrogen content, and reduced size of all organs induced by the aerobic crop environment were responsible for three chains of modifications that resulted in lower biomass accumulation and finally lower grain yield. Leaf appearance rates were bilinear in both environments, initially similar in both environments and slower after an inflection point that occurred at the appearance of the 8th leaf in a erobic crops instead of the 11th leaf in flooded crops. As a consequence, two fewer leaves were produced by main tillers in aerobic crops, whose individual leaf area thus was much lower. In 2012, plant nitrogen content was about 1% lower in the aerobic crop than in the flooded crop during the entire crop duration. Biomass accumulation of the variety used was biphasic in both environments, with high radiation use efficiency during the two phases of effective biomass accumulation in flooded crops, and the standard radiation use efficiency expected with C3 species in aerobic crops during the same phases.",
+  "publisher": "IRRI Dataverse",
+  "authors": [
+    "Clerget, Benoit",
+    "Bueno, Crisanta",
+    "Quilty, James",
+    "Correa, Teodoro Jr.",
+    "Sandroba, Joseph"
+  ],
+  "producers": [],
+  "contacts": [
+    {
+      "name": "Benoit Clerget",
+      "affiliation": "IRRI-CESD"
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2014-01-13T03:07:09Z",
+  "updated_at": "2016-04-06T06:40:31Z",
+  "published_at": "2014-01-19T00:00:00Z",
+  "citation": "Clerget, Benoit; Bueno, Crisanta; Quilty, James; Correa, Teodoro Jr.; Sandroba, Joseph, 2014, \"Modifications in development and growth of a dual-adapted tropical rice variety grown as either a flooded or an aerobic crop\", https://doi.org/10.7910/DVN/24221, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

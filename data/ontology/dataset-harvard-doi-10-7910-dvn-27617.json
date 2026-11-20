@@ -1,0 +1,30 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/27617",
+  "type": "Dataset",
+  "name": "NIGERIA (2009): WATER, SANITATION, AND HYGIENE TRAC STUDY EVALUATING KNOWLEDGE OF CAUSES AND PREVENTION OF DIARRHEA AMONG CAREGIVERS AND SCHOOL CHILDREN IN NKANU EAST LGA, ENUGU STATE. BASELINE",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/27617",
+  "doi": "doi:10.7910/DVN/27617",
+  "description": "Three communities in Nkanu East LGA of Enugu State were selected by WADA to receive technical assistance for projects in schools and communities; these projects were designed jointly by local Coca Cola representatives and USAID. A baseline survey was implemented in 2009 to collect data for the projects. WADA intervention programs in schools and communities include drilling boreholes for water, construction of toilets for sewage disposal, strategic and behavioral change activities aimed at encouraging appropriate sanitation and hygiene practices in schools and communities, and finally, use of point-of-use water treatment method (Safe Water System). The TRaC study involved two main target groups: caregivers in selected rural communities and school children in primary grades 4 to 6 of selected rural schools. Structured questionnaires were used to interview 380 female caregivers living near the schools and 81 school children in the selected schools. The average age of the caregivers was 38; the school children were age 8 to 14.",
+  "publisher": "PSI/Nigeria Dataverse",
+  "authors": [
+    "Samson B. Adebayo",
+    "Jennifer Anyanti"
+  ],
+  "producers": [
+    "PSI/ Nigeria"
+  ],
+  "contacts": [
+    {
+      "name": "PSI Research & Metrics, Washington D.C.",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2014-10-16T21:04:46Z",
+  "updated_at": "2015-04-11T06:50:31Z",
+  "published_at": "2014-10-16T00:00:00Z",
+  "citation": "Samson B. Adebayo; Jennifer Anyanti, 2014, \"NIGERIA (2009): WATER, SANITATION, AND HYGIENE TRAC STUDY EVALUATING KNOWLEDGE OF CAUSES AND PREVENTION OF DIARRHEA AMONG CAREGIVERS AND SCHOOL CHILDREN IN NKANU EAST LGA, ENUGU STATE. BASELINE\", https://doi.org/10.7910/DVN/27617, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

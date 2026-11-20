@@ -1,0 +1,15 @@
+{
+  "id": "provider:datagov:king-county-wa",
+  "type": "Provider",
+  "name": "King County, Washington",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/king-county-wa",
+  "organization_type": "County Government",
+  "aliases": [
+    "washington"
+  ],
+  "dataset_count": 347,
+  "source_count": 1,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

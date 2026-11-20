@@ -1,0 +1,15 @@
+{
+  "id": "provider:datagov:lake-county-il",
+  "type": "Provider",
+  "name": "Lake County, Illinois",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/lake-county-il",
+  "organization_type": "County Government",
+  "aliases": [
+    "illinois"
+  ],
+  "dataset_count": 1324,
+  "source_count": 1,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

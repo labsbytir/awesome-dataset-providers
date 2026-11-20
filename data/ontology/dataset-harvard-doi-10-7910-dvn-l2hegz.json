@@ -1,0 +1,29 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/L2HEGZ",
+  "type": "Dataset",
+  "name": "Replication data for: Empirical Strategies for Various Manifestations of Multilevel Data",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/L2HEGZ",
+  "doi": "doi:10.7910/DVN/L2HEGZ",
+  "description": "Equivalent separate-subsample (two-step) and pooled-sample (one-step) strategies exist for any multilevel-modeling task, but their relative practicality and efficacy depend on dataset dimensions and properties and researchers' goals. Separate-subsample strategies have difficulties incorporating cross-subsample information, often crucial in time-series cross-section or panel contexts (subsamples small and/or cross-subsample information great) but less relevant in pools of independently random surveys (subsamples large; cross-sample information small). Separate-subsample estimation also complicates retrieval of macro-level-effect estimates, although they remain obtainable and may not be substantively central. Pooled-sample estimation, conversely, struggles with stochastic specifications that differ across levels (e.g., stochastic linear interactions in binary dependent-variable models). Moreover, pooled-sample estimation that models coefficient variation in a theoretically reduced manner rather than allowing each subsample coefficient vector to differ arbitrarily can suffer misspecification ills insofar as this reduced specification is lacking. Often, though, these ills are limited to inefficiencies and standard-error inaccuracies that familiar efficient (e.g., feasible generalized least squares) or consistent-standard-error estimation strategies can satisfactorily redress.",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Robert Franzese, Jr."
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2010-03-11T15:56:10Z",
+  "updated_at": "2015-04-11T06:54:20Z",
+  "published_at": "2010-03-11T00:00:00Z",
+  "citation": "Robert Franzese, Jr., 2010, \"Replication data for: Empirical Strategies for Various Manifestations of Multilevel Data\", https://doi.org/10.7910/DVN/L2HEGZ, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

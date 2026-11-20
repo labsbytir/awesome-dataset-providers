@@ -1,0 +1,15 @@
+{
+  "id": "provider:datagov:nist",
+  "type": "Provider",
+  "name": "National Institute of Standards and Technology",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/nist",
+  "organization_type": "Federal Government",
+  "aliases": [
+    ""
+  ],
+  "dataset_count": 1321,
+  "source_count": 1,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

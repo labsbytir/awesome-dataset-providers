@@ -1,0 +1,25 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/HKE4MO",
+  "type": "Dataset",
+  "name": "No Shelter Here: Rebel Sanctuaries and International Conflict",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/HKE4MO",
+  "doi": "doi:10.7910/DVN/HKE4MO",
+  "description": null,
+  "publisher": "Idean Salehyan Dataverse",
+  "authors": [],
+  "producers": [],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2013-05-15T18:37:42Z",
+  "updated_at": "2015-04-11T06:47:36Z",
+  "published_at": "2013-05-15T00:00:00Z",
+  "citation": "2013, \"No Shelter Here: Rebel Sanctuaries and International Conflict\", https://doi.org/10.7910/DVN/HKE4MO, Harvard Dataverse, V1, UNF:5:4V45salq3Ab0F4aE55qmNA== [fileUNF]",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

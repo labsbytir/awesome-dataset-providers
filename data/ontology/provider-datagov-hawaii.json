@@ -1,0 +1,15 @@
+{
+  "id": "provider:datagov:hawaii",
+  "type": "Provider",
+  "name": "State of Hawaii",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/hawaii",
+  "organization_type": "State Government",
+  "aliases": [
+    "hi"
+  ],
+  "dataset_count": 20,
+  "source_count": 1,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

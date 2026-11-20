@@ -1,0 +1,31 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/23113",
+  "type": "Dataset",
+  "name": "Replication data for: A Common Left-Right Scale for Voters and Parties in Europe",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/23113",
+  "doi": "doi:10.7910/DVN/23113",
+  "description": "Replication code and data for \"A Common Left-Right Scale for Voters and Parties in Europe\"",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Lo, James",
+    "Proksch, Sven-Oliver",
+    "Gschwend, Thomas"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "Sven-Oliver Proksch",
+      "affiliation": "McGill University"
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2013-10-29T17:57:16Z",
+  "updated_at": "2015-04-11T06:54:09Z",
+  "published_at": "2014-10-02T00:00:00Z",
+  "citation": "Lo, James; Proksch, Sven-Oliver; Gschwend, Thomas, 2013, \"Replication data for: A Common Left-Right Scale for Voters and Parties in Europe\", https://doi.org/10.7910/DVN/23113, Harvard Dataverse, V2",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

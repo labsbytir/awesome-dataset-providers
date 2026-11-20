@@ -1,0 +1,27 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/25704",
+  "type": "Dataset",
+  "name": "Demandas sociais e submissao de projetos de lei subnacionais - 2007-1010",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/25704",
+  "doi": "doi:10.7910/DVN/25704",
+  "description": "Esse e um banco de dados sobre demandas sociais (desemprego, analfabetismo, violencia e qualidade de saude) e submissao de projetos de lei (emprego, educacao, seguranca publica e saude publica) nas assembleias legislativas de dez Estados do Brasil (AP, ES, MG, MS, PB, PR, RS, SC, SE e SP), entre os anos de 2007 e 2010.",
+  "publisher": "Ranulfo Paranhos Dataverse",
+  "authors": [
+    "Paranhos, Ranulfo"
+  ],
+  "producers": [],
+  "contacts": [
+    {
+      "name": "Ranulfo Paranhos",
+      "affiliation": "Univ. Fed. de Alagoas"
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2014-05-06T05:22:09Z",
+  "updated_at": "2015-04-11T06:49:14Z",
+  "published_at": "2014-05-06T00:00:00Z",
+  "citation": "Paranhos, Ranulfo, 2014, \"Demandas sociais e submissao de projetos de lei subnacionais - 2007-1010\", https://doi.org/10.7910/DVN/25704, Harvard Dataverse, V1, UNF:5:AvpyriGYycKDXhVMegU09g== [fileUNF]",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

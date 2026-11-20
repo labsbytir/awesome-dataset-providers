@@ -1,0 +1,16 @@
+{
+  "id": "provider:datagov:state",
+  "type": "Provider",
+  "name": "Department of State",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/state",
+  "organization_type": "Federal Government",
+  "aliases": [
+    "dept",
+    "dos"
+  ],
+  "dataset_count": 399,
+  "source_count": 2,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

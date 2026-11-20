@@ -1,0 +1,30 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/VOSEXQ",
+  "type": "Dataset",
+  "name": "Replication data for: Model-based Clustering and Typologies in the Social Sciences",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/VOSEXQ",
+  "doi": "doi:10.7910/DVN/VOSEXQ",
+  "description": null,
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "John Ahlquist",
+    "Christian Breunig"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2011-10-28T18:12:35Z",
+  "updated_at": "2015-04-11T06:53:49Z",
+  "published_at": "2014-10-03T00:00:00Z",
+  "citation": "John Ahlquist; Christian Breunig, 2011, \"Replication data for: Model-based Clustering and Typologies in the Social Sciences\", https://doi.org/10.7910/DVN/VOSEXQ, Harvard Dataverse, V2",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

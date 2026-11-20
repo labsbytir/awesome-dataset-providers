@@ -1,0 +1,15 @@
+{
+  "id": "provider:datagov:connecticut",
+  "type": "Provider",
+  "name": "State of Connecticut",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/connecticut",
+  "organization_type": "State Government",
+  "aliases": [
+    "ct"
+  ],
+  "dataset_count": 1322,
+  "source_count": 1,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

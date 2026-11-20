@@ -1,0 +1,27 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/9OON8L",
+  "type": "Dataset",
+  "name": "CCES, Florida State Module, 2008",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/9OON8L",
+  "doi": "doi:10.7910/DVN/9OON8L",
+  "description": null,
+  "publisher": "CCES Dataverse",
+  "authors": [],
+  "producers": [
+    "Florida State"
+  ],
+  "contacts": [
+    {
+      "name": "",
+      "affiliation": ""
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2010-01-26T21:17:29Z",
+  "updated_at": "2015-04-11T06:50:05Z",
+  "published_at": "2013-03-17T00:00:00Z",
+  "citation": "2010, \"CCES, Florida State Module, 2008\", https://doi.org/10.7910/DVN/9OON8L, Harvard Dataverse, V2",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

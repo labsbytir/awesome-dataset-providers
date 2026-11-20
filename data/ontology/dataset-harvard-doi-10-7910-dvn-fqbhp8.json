@@ -1,0 +1,30 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/FQBHP8",
+  "type": "Dataset",
+  "name": "Replication data for: Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/FQBHP8",
+  "doi": "doi:10.7910/DVN/FQBHP8",
+  "description": "Replication Materials (Data and Code) for 'Text as Data' Abstract: Politics and political conflict often occur in the written and spoken word. Scholars have long recognized this, but the massive costs of analyzing even moderately sized collections of texts have hindered their use in political science research. Here lies the promise of automated text analysis: it substantially reduces the costs of analyzing large collections of text. We provide a guide to this exciting new area of research and show how, in many instances, the methods have already obtained part of their promise. But there are pitfalls to using automated methods--they are no substitute for careful thought and close reading and require extensive and problem specific validation. We survey a wide range of new methods, provide guidance on how to validate the output of the models, and clarify misconceptions and errors in the literature. To conclude, we argue that for automated text methods to become a standard tool for political scientists, methodologists must contribute new methods and new methods of validation.",
+  "publisher": "Political Analysis Dataverse",
+  "authors": [
+    "Grimmer, Justin",
+    "Stewart, Brandon"
+  ],
+  "producers": [
+    "Political Analysis"
+  ],
+  "contacts": [
+    {
+      "name": "Brandon Stewart",
+      "affiliation": "Harvard University"
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2012-07-09T12:22:22Z",
+  "updated_at": "2015-04-11T06:54:37Z",
+  "published_at": "2014-10-02T00:00:00Z",
+  "citation": "Grimmer, Justin; Stewart, Brandon, 2012, \"Replication data for: Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts\", https://doi.org/10.7910/DVN/FQBHP8, Harvard Dataverse, V2",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

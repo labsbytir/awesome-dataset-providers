@@ -1,0 +1,28 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/5WCF0X",
+  "type": "Dataset",
+  "name": "Replication data for: \"The Supreme Court and Percolation in the Lower Courts: An Optimal Stopping Model\"",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/5WCF0X",
+  "doi": "doi:10.7910/DVN/5WCF0X",
+  "description": "This archive contains data and statistical code to replicate the analyses performed in the paper. The zip file contains a description of the data and code.",
+  "publisher": "Jonathan Kastellec Dataverse",
+  "authors": [
+    "Tom Clark",
+    "Jonathan Kastellec"
+  ],
+  "producers": [],
+  "contacts": [
+    {
+      "name": "Jonathan Kastellec",
+      "affiliation": "Princeton University"
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2012-07-09T13:39:59Z",
+  "updated_at": "2015-04-11T06:55:38Z",
+  "published_at": "2013-12-23T00:00:00Z",
+  "citation": "Tom Clark; Jonathan Kastellec, 2012, \"Replication data for: \"The Supreme Court and Percolation in the Lower Courts: An Optimal Stopping Model\"\", https://doi.org/10.7910/DVN/5WCF0X, Harvard Dataverse, V2",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

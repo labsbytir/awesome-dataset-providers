@@ -1,0 +1,30 @@
+{
+  "id": "dataset:harvard:doi:10.7910/DVN/24218",
+  "type": "Dataset",
+  "name": "Knowledge, attitudes and practices of farmers on rodent pests and their management in the lowlands of the Sierra Madre Biodiversity Corridor, Philippines",
+  "source": "harvard-dataverse",
+  "url": "https://doi.org/10.7910/DVN/24218",
+  "doi": "doi:10.7910/DVN/24218",
+  "description": "A survey of the knowledge, attitudes and practices (KAP) of 100 rice farmers and 50 coconut farmers was conducted in the coastal lowland agro-ecosystems of the Sierra Madre Biodiversity Corridor, Luzon, Philippines to identify current rodent management practices and to understand the extent of rat damage and the attitudes of farmers to community actions for rodent management. Pests were most commonly listed as one of the three most important rice and coconut production constraints. Other major crop production constraints were typhoons and insufficient water. Farmers consider rats to be the major pest of coconut and of rice during the wet season rice crop, with average yield losses of 3.0% and 13.2%, respectively. Rice and coconut farmers practised a wide range of rodent management techniques. These included scrub clearance, hunting and trapping. Of the 42 rice farmers and 3 coconut farmers that applied rodenticides to control rodents, all used the acute rodenticide, zinc phosphide. However, only ten rice farmers (23.8%) applied rodenticides prior to the booting stage and only seven farmers (15.6%) conducted pre-baiting before applying zinc phosphide. The majority of farmers belonged to farmer organisations and believed that rat control can only be done by farmers wo rking together. However, during the last cropping season, less than a third of rice farmers (31.2%) applied rodent management as a group. In order to reduce the impact of rodents on the farmers of the coastal lowlands of the Sierra Madre Biodiversity Corridor, integrated management strategies need to be developed that specifically target the pest rodents in a sustainable manner, and community actions for rodent management should be promoted.",
+  "publisher": "IRRI Dataverse",
+  "authors": [
+    "Stuart, Alexander",
+    "Prescott, Colin",
+    "Singleton, Grant",
+    "Joshi, Ravindra"
+  ],
+  "producers": [],
+  "contacts": [
+    {
+      "name": "Grant R. Singleton",
+      "affiliation": "IRRI-CESD"
+    }
+  ],
+  "subjects": [],
+  "file_count": 1,
+  "created_at": "2014-01-13T02:16:51Z",
+  "updated_at": "2015-04-11T07:05:04Z",
+  "published_at": "2014-01-19T00:00:00Z",
+  "citation": "Stuart, Alexander; Prescott, Colin; Singleton, Grant; Joshi, Ravindra, 2014, \"Knowledge, attitudes and practices of farmers on rodent pests and their management in the lowlands of the Sierra Madre Biodiversity Corridor, Philippines\", https://doi.org/10.7910/DVN/24218, Harvard Dataverse, V1",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}

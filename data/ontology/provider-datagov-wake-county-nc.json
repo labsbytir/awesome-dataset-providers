@@ -1,0 +1,15 @@
+{
+  "id": "provider:datagov:wake-county-nc",
+  "type": "Provider",
+  "name": "Wake County",
+  "source": "data.gov",
+  "url": "https://catalog.data.gov/organization/wake-county-nc",
+  "organization_type": "County Government",
+  "aliases": [
+    "north carolina"
+  ],
+  "dataset_count": 106,
+  "source_count": 1,
+  "country": "United States",
+  "last_scraped_utc": "2026-11-20T00:13:10.602722+00:00"
+}
