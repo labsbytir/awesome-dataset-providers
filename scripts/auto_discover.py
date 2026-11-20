@@ -19,7 +19,7 @@ def add(item):
         "url": url,
         "snippet": item.get("snippet") or item.get("description") or "",
         "source_engine": item.get("_engine"),
-        "last_scraped_utc": NOW,
+        "last_collected_utc": NOW,
     })
 
 # SearXNG

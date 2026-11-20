@@ -2,7 +2,7 @@
 
 ## Context
 
-Static awesome list repo. Python scraper fetches data.gov organizations and Harvard Dataverse datasets, writes JSON and README.
+Static awesome list repo. Python collector fetches data.gov organizations and Harvard Dataverse datasets, writes JSON and README.
 
 ## Goals / Non-Goals
 

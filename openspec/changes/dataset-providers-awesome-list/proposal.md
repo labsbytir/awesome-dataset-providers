@@ -7,7 +7,7 @@ Create a community awesome list cataloging dataset providers and datasets, start
 ## What Changes
 
 - Add README awesome list with provider and dataset schema fields.
-- Add scraper scripts for data.gov organizations and Harvard Dataverse datasets.
+- Add collector scripts for data.gov organizations and Harvard Dataverse datasets.
 - Add JSON data outputs for providers and datasets.
 
 ## Capabilities

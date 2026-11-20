@@ -27,7 +27,7 @@ for o in orgs:
         "dataset_count": o.get("dataset_count"),
         "source_count": o.get("source_count"),
         "country": "United States",
-        "last_scraped_utc": NOW,
+        "last_collected_utc": NOW,
     }
     fname = f"{slugify(oid)}.json"
     with open(os.path.join(OUT, fname), "w") as f:
@@ -54,7 +54,7 @@ for it in search:
         "updated_at": it.get("updatedAt"),
         "published_at": it.get("published_at"),
         "citation": it.get("citation"),
-        "last_scraped_utc": NOW,
+        "last_collected_utc": NOW,
     }
     fname = f"{slugify(oid)}.json"
     with open(os.path.join(OUT, fname), "w") as f:
